@@ -1,0 +1,331 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\Data\TN326\TN326_CTD16.hex
+* Software Version Seasave V 7.23.2
+* Temperature SN = 2131
+* Conductivity SN = 2881
+* Number of Bytes Per Scan = 41
+* Number of Voltage Words = 4
+* Number of Scans Averaged by the Deck Unit = 1
+* Append System Time to Every Scan
+* System UpLoad Time = Jul 16 2015 22:39:56
+* NMEA Latitude = 44 31.73 N
+* NMEA Longitude = 125 23.74 W
+* NMEA UTC (Time) = Jul 16 2015 22:39:54
+* Store Lat/Lon Data = Append to Every Scan
+* SBE 11plus V 5.2
+* number of scans to average = 1
+* pressure baud rate = 9600
+* NMEA baud rate = 4800
+* Latitude/Longitude added to scan
+* GPIB address = 1
+* advance primary conductivity  0.073 seconds
+* advance secondary conductivity  0.073 seconds
+* autorun on power up is disabled
+* S>
+** Ship: R/V Thompson
+** Station: 500 miles west of Slope Base SP Platform
+** Operator: Kawka
+** Jesse Plankton net attached to Niskins 1&2 and partially blocking 1,2,3,24
+* System UTC = Jul 16 2015 22:39:56
+# interval = seconds: 0.0416667
+# start_time = Jul 16 2015 22:39:54 [NMEA time, header]
+# <Sensors count="13" >
+#   <sensor Channel="1" >
+#     <!-- Frequency 0, Temperature -->
+#     <TemperatureSensor SensorID="55" >
+#       <SerialNumber>2131</SerialNumber>
+#       <CalibrationDate>27-Aug-14</CalibrationDate>
+#       <UseG_J>1</UseG_J>
+#       <A>0.00000000e+000</A>
+#       <B>0.00000000e+000</B>
+#       <C>0.00000000e+000</C>
+#       <D>0.00000000e+000</D>
+#       <F0_Old>0.000</F0_Old>
+#       <G>4.13916985e-003</G>
+#       <H>6.23343865e-004</H>
+#       <I>2.06238729e-005</I>
+#       <J>2.07778444e-006</J>
+#       <F0>1000.000</F0>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.0000</Offset>
+#     </TemperatureSensor>
+#   </sensor>
+#   <sensor Channel="2" >
+#     <!-- Frequency 1, Conductivity -->
+#     <ConductivitySensor SensorID="3" >
+#       <SerialNumber>2881</SerialNumber>
+#       <CalibrationDate>19-Feb-15</CalibrationDate>
+#       <UseG_J>1</UseG_J>
+#       <!-- Cell const and series R are applicable only for wide range sensors. -->
+#       <SeriesR>0.0000</SeriesR>
+#       <CellConst>2000.0000</CellConst>
+#       <ConductivityType>0</ConductivityType>
+#       <Coefficients equation="0" >
+#         <A>0.00000000e+000</A>
+#         <B>0.00000000e+000</B>
+#         <C>0.00000000e+000</C>
+#         <D>0.00000000e+000</D>
+#         <M>0.0</M>
+#         <CPcor>-9.57000000e-008</CPcor>
+#       </Coefficients>
+#       <Coefficients equation="1" >
+#         <G>-1.03789433e+001</G>
+#         <H>1.42729656e+000</H>
+#         <I>5.36077152e-004</I>
+#         <J>3.48926549e-005</J>
+#         <CPcor>-9.57000000e-008</CPcor>
+#         <CTcor>3.2500e-006</CTcor>
+#         <!-- WBOTC not applicable unless ConductivityType = 1. -->
+#         <WBOTC>0.00000000e+000</WBOTC>
+#       </Coefficients>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.00000</Offset>
+#     </ConductivitySensor>
+#   </sensor>
+#   <sensor Channel="3" >
+#     <!-- Frequency 2, Pressure, Digiquartz with TC -->
+#     <PressureSensor SensorID="45" >
+#       <SerialNumber>0216</SerialNumber>
+#       <CalibrationDate>13-Jan-15</CalibrationDate>
+#       <C1>-4.562074e+004</C1>
+#       <C2>1.820199e-001</C2>
+#       <C3>1.580430e-002</C3>
+#       <D1>3.615300e-002</D1>
+#       <D2>0.000000e+000</D2>
+#       <T1>3.024088e+001</T1>
+#       <T2>-3.472576e-004</T2>
+#       <T3>4.427560e-006</T3>
+#       <T4>3.763240e-009</T4>
+#       <Slope>0.99999136</Slope>
+#       <Offset>-4.11894</Offset>
+#       <T5>0.000000e+000</T5>
+#       <AD590M>1.176000e-002</AD590M>
+#       <AD590B>-8.544400e+000</AD590B>
+#     </PressureSensor>
+#   </sensor>
+#   <sensor Channel="4" >
+#     <!-- Frequency 3, Temperature, 2 -->
+#     <TemperatureSensor SensorID="55" >
+#       <SerialNumber>1605</SerialNumber>
+#       <CalibrationDate>09-Sep-14</CalibrationDate>
+#       <UseG_J>1</UseG_J>
+#       <A>0.00000000e+000</A>
+#       <B>0.00000000e+000</B>
+#       <C>0.00000000e+000</C>
+#       <D>0.00000000e+000</D>
+#       <F0_Old>0.000</F0_Old>
+#       <G>4.84531630e-003</G>
+#       <H>6.77224053e-004</H>
+#       <I>2.53492735e-005</I>
+#       <J>1.89265655e-006</J>
+#       <F0>1000.000</F0>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.0000</Offset>
+#     </TemperatureSensor>
+#   </sensor>
+#   <sensor Channel="5" >
+#     <!-- Frequency 4, Conductivity, 2 -->
+#     <ConductivitySensor SensorID="3" >
+#       <SerialNumber>1824</SerialNumber>
+#       <CalibrationDate>19-Feb-15</CalibrationDate>
+#       <UseG_J>1</UseG_J>
+#       <!-- Cell const and series R are applicable only for wide range sensors. -->
+#       <SeriesR>0.0000</SeriesR>
+#       <CellConst>2000.0000</CellConst>
+#       <ConductivityType>0</ConductivityType>
+#       <Coefficients equation="0" >
+#         <A>0.00000000e+000</A>
+#         <B>0.00000000e+000</B>
+#         <C>0.00000000e+000</C>
+#         <D>0.00000000e+000</D>
+#         <M>0.0</M>
+#         <CPcor>-9.57000000e-008</CPcor>
+#       </Coefficients>
+#       <Coefficients equation="1" >
+#         <G>-3.93324078e+000</G>
+#         <H>5.28584041e-001</H>
+#         <I>-7.64641629e-004</I>
+#         <J>6.77627314e-005</J>
+#         <CPcor>-9.57000000e-008</CPcor>
+#         <CTcor>3.2500e-006</CTcor>
+#         <!-- WBOTC not applicable unless ConductivityType = 1. -->
+#         <WBOTC>0.00000000e+000</WBOTC>
+#       </Coefficients>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.00000</Offset>
+#     </ConductivitySensor>
+#   </sensor>
+#   <sensor Channel="6" >
+#     <!-- A/D voltage 0, Oxygen, SBE 43 -->
+#     <OxygenSensor SensorID="38" >
+#       <SerialNumber>0023</SerialNumber>
+#       <CalibrationDate>10-Mar-15</CalibrationDate>
+#       <Use2007Equation>1</Use2007Equation>
+#       <CalibrationCoefficients equation="0" >
+#         <!-- Coefficients for Owens-Millard equation. -->
+#         <Boc>0.0000</Boc>
+#         <Soc>0.0000e+000</Soc>
+#         <offset>0.0000</offset>
+#         <Pcor>0.00e+000</Pcor>
+#         <Tcor>0.0000</Tcor>
+#         <Tau>0.0</Tau>
+#       </CalibrationCoefficients>
+#       <CalibrationCoefficients equation="1" >
+#         <!-- Coefficients for Sea-Bird equation - SBE calibration in 2007 and later. -->
+#         <Soc>4.4716e-001</Soc>
+#         <offset>-0.4981</offset>
+#         <A>-3.4712e-003</A>
+#         <B> 1.3827e-004</B>
+#         <C>-1.8703e-006</C>
+#         <D0> 2.5826e+000</D0>
+#         <D1> 1.92634e-004</D1>
+#         <D2>-4.64803e-002</D2>
+#         <E> 3.6000e-002</E>
+#         <Tau20> 1.1100</Tau20>
+#         <H1>-3.3000e-002</H1>
+#         <H2> 5.0000e+003</H2>
+#         <H3> 1.4500e+003</H3>
+#       </CalibrationCoefficients>
+#     </OxygenSensor>
+#   </sensor>
+#   <sensor Channel="7" >
+#     <!-- A/D voltage 1, Oxygen, SBE 43, 2 -->
+#     <OxygenSensor SensorID="38" >
+#       <SerialNumber>2887</SerialNumber>
+#       <CalibrationDate>24-May-15</CalibrationDate>
+#       <Use2007Equation>1</Use2007Equation>
+#       <CalibrationCoefficients equation="0" >
+#         <!-- Coefficients for Owens-Millard equation. -->
+#         <Boc>0.0000</Boc>
+#         <Soc>0.0000e+000</Soc>
+#         <offset>0.0000</offset>
+#         <Pcor>0.00e+000</Pcor>
+#         <Tcor>0.0000</Tcor>
+#         <Tau>0.0</Tau>
+#       </CalibrationCoefficients>
+#       <CalibrationCoefficients equation="1" >
+#         <!-- Coefficients for Sea-Bird equation - SBE calibration in 2007 and later. -->
+#         <Soc>5.0411e-001</Soc>
+#         <offset>-0.5299</offset>
+#         <A>-4.9804e-003</A>
+#         <B> 2.1797e-004</B>
+#         <C>-3.1002e-006</C>
+#         <D0> 2.5826e+000</D0>
+#         <D1> 1.92634e-004</D1>
+#         <D2>-4.64803e-002</D2>
+#         <E> 3.6000e-002</E>
+#         <Tau20> 1.4200</Tau20>
+#         <H1>-3.3000e-002</H1>
+#         <H2> 5.0000e+003</H2>
+#         <H3> 1.4500e+003</H3>
+#       </CalibrationCoefficients>
+#     </OxygenSensor>
+#   </sensor>
+#   <sensor Channel="8" >
+#     <!-- A/D voltage 2, Transmissometer, WET Labs C-Star -->
+#     <WET_LabsCStar SensorID="71" >
+#       <SerialNumber>CST-402DR</SerialNumber>
+#       <CalibrationDate>18 Sep 2014</CalibrationDate>
+#       <M>21.9587</M>
+#       <B>-1.2956</B>
+#       <PathLength>0.250</PathLength>
+#     </WET_LabsCStar>
+#   </sensor>
+#   <sensor Channel="9" >
+#     <!-- A/D voltage 3, Fluorometer, WET Labs ECO-AFL/FL -->
+#     <FluoroWetlabECO_AFL_FL_Sensor SensorID="20" >
+#       <SerialNumber>FLRTD-1956</SerialNumber>
+#       <CalibrationDate>12/31/2014</CalibrationDate>
+#       <ScaleFactor>2.40000000e+001</ScaleFactor>
+#       <!-- Dark output -->
+#       <Vblank>0.0170</Vblank>
+#     </FluoroWetlabECO_AFL_FL_Sensor>
+#   </sensor>
+#   <sensor Channel="10" >
+#     <!-- A/D voltage 4, PAR/Irradiance, Biospherical/Licor -->
+#     <PAR_BiosphericalLicorChelseaSensor SensorID="42" >
+#       <SerialNumber>QSP2350 70283</SerialNumber>
+#       <CalibrationDate>22 Jun 2015</CalibrationDate>
+#       <M>1.00000000</M>
+#       <B>0.00000000</B>
+#       <CalibrationConstant>11876480000.00000000</CalibrationConstant>
+#       <Multiplier>1.00000000</Multiplier>
+#       <Offset>-0.07960000</Offset>
+#     </PAR_BiosphericalLicorChelseaSensor>
+#   </sensor>
+#   <sensor Channel="11" >
+#     <!-- A/D voltage 5, pH -->
+#     <pH_Sensor SensorID="43" >
+#       <SerialNumber>0601</SerialNumber>
+#       <CalibrationDate>28 Apr 2015</CalibrationDate>
+#       <Slope>4.5540</Slope>
+#       <Offset>2.5357</Offset>
+#     </pH_Sensor>
+#   </sensor>
+#   <sensor Channel="12" >
+#     <!-- A/D voltage 6, Free -->
+#   </sensor>
+#   <sensor Channel="13" >
+#     <!-- A/D voltage 7, Altimeter -->
+#     <AltimeterSensor SensorID="0" >
+#       <SerialNumber>Valeport 48049</SerialNumber>
+#       <CalibrationDate>2014</CalibrationDate>
+#       <ScaleFactor>15.000</ScaleFactor>
+#       <Offset>0.000</Offset>
+#     </AltimeterSensor>
+#   </sensor>
+# </Sensors>
+# datcnv_date = Jan 02 2019 10:43:36, 7.26.7.114
+# datcnv_in = \\Mac\Home\Desktop\CruiseData\Cabled-6\TN326_CTD-016.hex \\Mac\Home\Desktop\CruiseData\Cabled-6\TN326_CTD-016.XMLCON
+# datcnv_ox_hysteresis_correction = yes
+# datcnv_ox_tau_correction = yes
+# datcnv_bottle_scan_range_source = BL file
+# datcnv_scans_per_bottle = 97
+# bottlesum_date = Jan 02 2019 10:49:57, 7.26.7.114
+# bottlesum_in = \\Mac\Home\Desktop\CruiseData\Cabled-6\TN326_CTD-016.ros \\Mac\Home\Desktop\CruiseData\Cabled-6\TN326_CTD-016.XMLCON \\Mac\Home\Desktop\CruiseData\Cabled-6\TN326_CTD-016.BL
+    Bottle        Date       PrDM      DepSM   Latitude  Longitude      T090C      T190C      C0S/m      C1S/m      Sal00      Sal11 Sbeox0ML/L  OxsolML/L  FlECO-AFL   CStarAt0   CStarTr0         Ph
+  Position        Time                                                                                                                                                                                
+      3    Jul 16 2015   2943.964   2899.925   44.52896 -125.39572     1.7151     1.7161   3.147871   3.147812    34.6480    34.6462     1.8100    7.68404    -0.0479     0.0565    98.5972     -2.861 (avg)
+              23:45:10      0.248      0.242    0.00000    0.00000     0.0002     0.0003   0.000019   0.000015     0.0003     0.0003     0.0040    0.00002     0.0314     0.0010     0.0243      0.005 (sdev)
+      4    Jul 16 2015   2943.287   2899.262   44.52896 -125.39573     1.7151     1.7161   3.147850   3.147792    34.6480    34.6462     1.8095    7.68404    -0.0473     0.0573    98.5784     -2.860 (avg)
+              23:45:16      0.082      0.080    0.00000    0.00001     0.0001     0.0002   0.000015   0.000016     0.0002     0.0003     0.0047    0.00002     0.0340     0.0012     0.0288      0.004 (sdev)
+      5    Jul 16 2015   2943.208   2899.186   44.52896 -125.39573     1.7151     1.7161   3.147847   3.147794    34.6480    34.6463     1.8101    7.68404    -0.0425     0.0577    98.5674     -2.859 (avg)
+              23:45:28      0.274      0.268    0.00000    0.00001     0.0001     0.0003   0.000017   0.000019     0.0002     0.0003     0.0025    0.00002     0.0349     0.0018     0.0437      0.005 (sdev)
+      6    Jul 16 2015   2943.367   2899.341   44.52896 -125.39574     1.7152     1.7162   3.147859   3.147802    34.6480    34.6462     1.8109    7.68402    -0.0446     0.0569    98.5870     -2.860 (avg)
+              23:45:38      0.451      0.441    0.00000    0.00000     0.0001     0.0002   0.000025   0.000020     0.0003     0.0003     0.0038    0.00002     0.0324     0.0015     0.0367      0.005 (sdev)
+      7    Jul 16 2015   2943.467   2899.439   44.52895 -125.39574     1.7152     1.7161   3.147861   3.147802    34.6480    34.6463     1.8088    7.68403    -0.0467     0.0566    98.5945     -2.861 (avg)
+              23:45:51      0.148      0.145    0.00001    0.00000     0.0001     0.0002   0.000018   0.000014     0.0002     0.0003     0.0039    0.00002     0.0343     0.0011     0.0274      0.004 (sdev)
+      8    Jul 16 2015   2537.133   2501.535   44.52892 -125.39570     1.7281     1.7288   3.132785   3.132710    34.6388    34.6372     1.8127    7.68200    -0.0500     0.0293    99.2700     -2.860 (avg)
+              23:55:49      0.237      0.233    0.00000    0.00001     0.0002     0.0003   0.000021   0.000020     0.0003     0.0003     0.0043    0.00003     0.0312     0.0009     0.0226      0.004 (sdev)
+      9    Jul 16 2015   2536.942   2501.347   44.52892 -125.39570     1.7282     1.7288   3.132782   3.132705    34.6388    34.6372     1.8143    7.68199    -0.0546     0.0302    99.2485     -2.861 (avg)
+              23:56:03      0.090      0.089    0.00000    0.00001     0.0002     0.0002   0.000016   0.000018     0.0002     0.0003     0.0042    0.00003     0.0293     0.0008     0.0193      0.006 (sdev)
+     10    Jul 17 2015   1518.948   1501.214   44.52892 -125.39570     2.5775     2.5789   3.157009   3.157014    34.5296    34.5282     0.7092    7.52589    -0.0515     0.0239    99.4035     -2.831 (avg)
+              00:16:52      0.219      0.216    0.00000    0.00001     0.0004     0.0008   0.000026   0.000048     0.0002     0.0004     0.0030    0.00007     0.0298     0.0012     0.0286      0.005 (sdev)
+     11    Jul 17 2015   1519.113   1501.376   44.52894 -125.39570     2.5796     2.5799   3.157169   3.157100    34.5292    34.5280     0.7073    7.52551    -0.0509     0.0238    99.4066     -2.830 (avg)
+              00:17:04      0.118      0.116    0.00000    0.00001     0.0004     0.0003   0.000024   0.000016     0.0005     0.0003     0.0034    0.00006     0.0297     0.0004     0.0092      0.005 (sdev)
+     12    Jul 17 2015   1010.633   1000.040   44.52894 -125.39570     3.8072     3.8072   3.232352   3.232271    34.3963    34.3954     0.2291    7.30843    -0.0458     0.0378    99.0594     -2.785 (avg)
+              00:27:36      0.267      0.263    0.00000    0.00001     0.0002     0.0003   0.000025   0.000028     0.0002     0.0003     0.0028    0.00003     0.0288     0.0009     0.0210      0.006 (sdev)
+     13    Jul 17 2015   1010.822   1000.226   44.52893 -125.39569     3.8073     3.8071   3.232377   3.232280    34.3964    34.3955     0.2296    7.30840    -0.0419     0.0378    99.0605     -2.786 (avg)
+              00:27:54      0.348      0.344    0.00001    0.00001     0.0001     0.0003   0.000024   0.000037     0.0002     0.0003     0.0028    0.00002     0.0300     0.0013     0.0313      0.005 (sdev)
+     14    Jul 17 2015    757.773    750.283   44.52892 -125.39567     4.4252     4.4253   3.266884   3.266802    34.2889    34.2879     0.1921    7.20529    -0.0361     0.0319    99.2059     -2.764 (avg)
+              00:33:42      0.304      0.300    0.00000    0.00001     0.0009     0.0004   0.000058   0.000030     0.0003     0.0003     0.0026    0.00016     0.0288     0.0009     0.0215      0.005 (sdev)
+     15    Jul 17 2015    757.591    750.103   44.52892 -125.39568     4.4256     4.4255   3.266908   3.266826    34.2889    34.2880     0.1908    7.20522    -0.0391     0.0318    99.2076     -2.763 (avg)
+              00:33:59      0.168      0.166    0.00001    0.00001     0.0008     0.0009   0.000051   0.000058     0.0003     0.0003     0.0025    0.00013     0.0380     0.0008     0.0194      0.005 (sdev)
+     16    Jul 17 2015    504.975    500.287   44.52894 -125.39576     5.6640     5.6633   3.350727   3.350594    34.1153    34.1145     0.7002    7.00438    -0.0391     0.0329    99.1819     -2.721 (avg)
+              00:39:53      0.100      0.099    0.00000    0.00001     0.0003     0.0003   0.000030   0.000030     0.0002     0.0003     0.0023    0.00005     0.0333     0.0017     0.0421      0.005 (sdev)
+      1    Jul 17 2015    505.390    500.698   44.52894 -125.39575     5.6640     5.6639   3.350759   3.350674    34.1154    34.1146     0.7019    7.00437    -0.0416     0.0340    99.1548     -2.720 (avg)
+              00:40:19      0.295      0.292    0.00000    0.00001     0.0007     0.0006   0.000047   0.000045     0.0003     0.0003     0.0011    0.00011     0.0342     0.0023     0.0583      0.005 (sdev)
+      2    Jul 17 2015    454.991    450.821   44.52892 -125.39572     5.8888     5.8884   3.366386   3.366234    34.0905    34.0893     0.8504    6.96870    -0.0352     0.0373    99.0724     -2.713 (avg)
+              00:42:53      0.509      0.504    0.00000    0.00000     0.0076     0.0083   0.000589   0.000630     0.0014     0.0019     0.0053    0.00118     0.0299     0.0023     0.0579      0.005 (sdev)
+     17    Jul 17 2015    251.993    249.806   44.52891 -125.39570     7.1699     7.1656   3.462231   3.461795    33.9791    33.9786     2.0425    6.77017    -0.0415     0.1029    97.4612     -2.668 (avg)
+              00:48:17      0.085      0.084    0.00001    0.00001     0.0020     0.0022   0.000185   0.000191     0.0003     0.0006     0.0009    0.00031     0.0347     0.0021     0.0500      0.005 (sdev)
+     18    Jul 17 2015    252.393    250.202   44.52892 -125.39570     7.1736     7.1732   3.462595   3.462481    33.9792    33.9783     2.0428    6.76959    -0.0358     0.1024    97.4739     -2.668 (avg)
+              00:48:26      0.093      0.092    0.00000    0.00001     0.0005     0.0003   0.000038   0.000031     0.0002     0.0003     0.0026    0.00007     0.0328     0.0035     0.0864      0.005 (sdev)
+     19    Jul 17 2015     30.381     30.133   44.52894 -125.39569    12.4416    12.4451   3.770538   3.770560    32.3733    32.3704     6.2155    6.09580     0.5669     0.1628    96.0120     -2.491 (avg)
+              00:53:21      0.091      0.090    0.00000    0.00001     0.0095     0.0079   0.000940   0.001315     0.0011     0.0110     0.0090    0.00124     0.0363     0.0023     0.0557      0.004 (sdev)
+     20    Jul 17 2015     30.409     30.161   44.52896 -125.39570    12.4521    12.4516   3.771486   3.771325    32.3732    32.3721     6.1996    6.09446     0.5315     0.1606    96.0637     -2.490 (avg)
+              00:53:40      0.104      0.103    0.00000    0.00001     0.0027     0.0038   0.000142   0.000252     0.0012     0.0012     0.0065    0.00031     0.0429     0.0023     0.0566      0.005 (sdev)
+     21    Jul 17 2015     10.809     10.721   44.52893 -125.39570    17.0199    17.0198   4.148937   4.148781    32.0230    32.0218     5.5365    5.57178     0.0739     0.1460    96.4225     -2.340 (avg)
+              00:55:12      0.124      0.122    0.00001    0.00001     0.0098     0.0071   0.002596   0.002848     0.0221     0.0227     0.0039    0.00120     0.0516     0.0487     1.1648      0.005 (sdev)
+     22    Jul 17 2015     10.619     10.533   44.52890 -125.39570    17.0403    17.0407   4.150958   4.150643    32.0243    32.0213     5.5364    5.56954     0.0561     0.1344    96.6978     -2.340 (avg)
+              00:55:36      0.193      0.191    0.00000    0.00001     0.0013     0.0013   0.002731   0.002391     0.0237     0.0205     0.0079    0.00079     0.0382     0.0288     0.6914      0.005 (sdev)

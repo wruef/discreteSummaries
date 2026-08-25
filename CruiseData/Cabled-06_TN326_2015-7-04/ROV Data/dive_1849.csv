@@ -1,0 +1,132 @@
+IRLS Dive Data CSV Export. (Version 1.1)
+
+Dive Information:
+Dive Number, Tasks, Start Date, End Date
+1849,"Slope Base 200-meter platform dive: Conducted a photo survey of the 200-meter platform and then followed the science pod up to 30 meters depth. Took four niskin samples (160m, 100m, 60m and 30m).",2015-07-16 19:59:00,2015-07-16 22:11:00
+
+Site(s):
+Name,Comments
+
+Scientist(s):
+Name, Organization
+
+Observations:
+Dive Number,Date(UTC),Observation,Latitude,Longitude,Depth(m),Heading,Pitch(deg),Roll(deg),Altitude(m),Speed(knots),File
+1849,2015-07-16 20:01:17,"ROPOS off deck",44.52898,-125.388023,0,9,0,2,0,2.75,./files/framegrabs/SDI1_2015-07-16 19_53_06_00482.jpg
+1849,2015-07-16 20:04:36,"ROPOS in the water",44.52898,-125.388023,2,304,-4,0,0,10.47,./files/framegrabs/SDI1_2015-07-16 19_53_06_00681.jpg
+1849,2015-07-16 20:12:01,"Alll lemons are on.",44.529003,-125.387713,58,291,-6,1,0,7.01,./files/framegrabs/SDI1_2015-07-16 19_53_06_01126.jpg
+1849,2015-07-16 20:12:37,"DSC: test image",44.52895,-125.387752,64,291,-6,1,0,12.29,./files/dscs/R1849_00001.jpg
+1849,2015-07-16 20:12:48,"Going down at about 20 m per minute",44.528927,-125.387748,68,289,-5,1,0,13.75,
+1849,2015-07-16 20:27:30,"Approaching platform",44.528928,-125.38882,194,273,-5,0,0,13.75,./files/framegrabs/SDI1_2015-07-16 19_53_06_02055.jpg
+1849,2015-07-16 20:28:13,"Platform",44.528915,-125.388877,194,273,-5,1,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_02098.jpg
+1849,2015-07-16 20:28:33,"DSC: 200-meter platform at Slope Base",44.528957,-125.38887,194,271,-6,1,0,0,./files/dscs/R1849_00002.jpg
+1849,2015-07-16 20:29:18,"DSC: 200-meter platform at Slope Base",44.528955,-125.388873,195,274,-5,1,0,17.92,./files/dscs/R1849_00003.jpg
+1849,2015-07-16 20:29:49,"DSC: 200-meter platform at Slope Base",44.528955,-125.388893,196,274,-6,0,0,0,./files/dscs/R1849_00004.jpg
+1849,2015-07-16 20:30:22,"DSC: 200-meter platform at Slope Base",44.528945,-125.388928,197,274,-6,1,0,9.91,./files/dscs/R1849_00005.jpg
+1849,2015-07-16 20:30:31,"Platform",44.528955,-125.388932,197,273,-6,0,0,14.15,./files/framegrabs/SDI1_2015-07-16 19_53_06_02236.jpg
+1849,2015-07-16 20:30:41,"DSC: 200-meter platform at Slope Base",44.528948,-125.388942,197,271,-5,0,0,8.01,./files/dscs/R1849_00006.jpg
+1849,2015-07-16 20:31:01,"DSC: 200-meter platform at Slope Base",44.528952,-125.38894,196,274,-6,1,0,13.04,./files/dscs/R1849_00007.jpg
+1849,2015-07-16 20:31:16,"DSC: 200-meter platform at Slope Base",44.528942,-125.388938,195,270,-6,1,0,0,./files/dscs/R1849_00008.jpg
+1849,2015-07-16 20:31:25,"Shallow platform",44.528958,-125.388938,195,264,-6,0,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_02290.jpg
+1849,2015-07-16 20:31:33,"DSC: 200-meter platform at Slope Base",44.528968,-125.388933,195,256,-7,0,0,0,./files/dscs/R1849_00009.jpg
+1849,2015-07-16 20:31:45,"DSC: Photo survey of 200-meter platform at Slope Base",44.52896,-125.388962,196,242,-6,0,0,8.01,./files/dscs/R1849_00010.jpg
+1849,2015-07-16 20:32:05,"DSC: Photo survey of 200-meter platform at Slope Base",44.528983,-125.388957,196,239,-6,0,0,0,./files/dscs/R1849_00011.jpg
+1849,2015-07-16 20:32:08,"Shallow profiler platform",44.528988,-125.388962,196,237,-7,0,0,14.8,./files/framegrabs/SDI1_2015-07-16 19_53_06_02333.jpg
+1849,2015-07-16 20:32:16,"DSC: Photo survey of 200-meter platform at Slope Base",44.52898,-125.388962,195,225,-6,0,0,8.69,./files/dscs/R1849_00012.jpg
+1849,2015-07-16 20:32:30,"DSC: Photo survey of 200-meter platform at Slope Base",44.528997,-125.388972,195,214,-7,0,0,0,./files/dscs/R1849_00013.jpg
+1849,2015-07-16 20:32:52,"Growth on shallow platform",44.529008,-125.388987,195,207,-6,0,0,10.47,./files/framegrabs/SDI1_2015-07-16 19_53_06_02377.jpg
+1849,2015-07-16 20:32:55,"DSC: Photo survey of 200-meter platform at Slope Base",44.529008,-125.388983,194,207,-7,0,0,0,./files/dscs/R1849_00014.jpg
+1849,2015-07-16 20:33:31,"DSC: Photo survey of 200-meter platform at Slope Base",44.528988,-125.389003,193,189,-7,0,0,14.15,./files/dscs/R1849_00015.jpg
+1849,2015-07-16 20:34:05,"DSC: Photo survey of 200-meter platform at Slope Base",44.528978,-125.388963,193,263,-6,1,0,11,./files/dscs/R1849_00016.jpg
+1849,2015-07-16 20:34:20,"DSC: Photo survey of 200-meter platform at Slope Base",44.52892,-125.388963,193,308,-6,1,0,11.33,./files/dscs/R1849_00017.jpg
+1849,2015-07-16 20:34:34,"DSC: Photo survey of 200-meter platform at Slope Base",44.528925,-125.388982,194,327,-6,2,0,0,./files/dscs/R1849_00018.jpg
+1849,2015-07-16 20:34:38,"Growth on shallow platform",44.528925,-125.388982,195,328,-7,2,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_02483.jpg
+1849,2015-07-16 20:34:51,"DSC: Photo survey of 200-meter platform at Slope Base",44.528908,-125.389005,195,332,-7,1,0,0,./files/dscs/R1849_00019.jpg
+1849,2015-07-16 20:35:05,"DSC: Photo survey of 200-meter platform at Slope Base",44.528915,-125.389018,195,355,-7,2,0,0,./files/dscs/R1849_00020.jpg
+1849,2015-07-16 20:35:17,"DSC: Photo survey of 200-meter platform at Slope Base",44.528912,-125.389022,195,356,-6,1,0,11.82,./files/dscs/R1849_00021.jpg
+1849,2015-07-16 20:35:30,"DSC: Photo survey of 200-meter platform at Slope Base",44.528903,-125.389033,195,5,-7,2,0,12.29,./files/dscs/R1849_00022.jpg
+1849,2015-07-16 20:35:56,"DSC: Photo survey of 200-meter platform at Slope Base",44.52892,-125.389052,194,12,-6,2,0,4.35,./files/dscs/R1849_00023.jpg
+1849,2015-07-16 20:36:03,"Looking at sensor for presence of cap",44.528915,-125.389048,194,13,-7,1,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_02568.jpg
+1849,2015-07-16 20:36:06,"DSC: Photo survey of 200-meter platform at Slope Base",44.528915,-125.389048,194,12,-6,2,0,0,./files/dscs/R1849_00024.jpg
+1849,2015-07-16 20:36:20,"DSC: Photo survey of 200-meter platform at Slope Base",44.528917,-125.389048,194,1,-6,1,0,0,./files/dscs/R1849_00025.jpg
+1849,2015-07-16 20:36:30,"DSC: Photo survey of 200-meter platform at Slope Base",44.52891,-125.389058,194,16,-7,1,0,16.72,./files/dscs/R1849_00026.jpg
+1849,2015-07-16 20:36:33,"Cap is off of oxygen sensor",44.52891,-125.389058,194,15,-6,1,0,8.01,./files/framegrabs/SDI1_2015-07-16 19_53_06_02598.jpg
+1849,2015-07-16 20:37:10,"DSC: Photo survey of 200-meter platform at Slope Base",44.528922,-125.389053,194,14,-6,2,0,8.69,./files/dscs/R1849_00027.jpg
+1849,2015-07-16 20:37:46,"Camera on platform",44.528925,-125.389067,195,30,-7,1,0,0,
+1849,2015-07-16 20:38:14,"Surveying platform",44.528913,-125.388977,195,292,-7,1,0,15.67,./files/framegrabs/SDI1_2015-07-16 19_53_06_02699.jpg
+1849,2015-07-16 20:38:42,"DSC: Photo survey of 200-meter platform at Slope Base",44.528942,-125.388922,194,278,-6,0,0,0,./files/dscs/R1849_00028.jpg
+1849,2015-07-16 20:38:55,"DSC: Photo survey of 200-meter platform at Slope Base",44.528947,-125.388922,193,279,-6,1,0,4.35,./files/dscs/R1849_00029.jpg
+1849,2015-07-16 20:39:09,"Pod in platform",44.528943,-125.388922,194,279,-6,1,0,15.67,./files/framegrabs/SDI1_2015-07-16 19_53_06_02754.jpg
+1849,2015-07-16 20:39:30,"Launching pod to 160m for sampling",44.52894,-125.38892,194,280,-7,1,0,17.92,./files/framegrabs/SDI1_2015-07-16 19_53_06_02775.jpg
+1849,2015-07-16 20:40:51,"Pod is launched from dock",44.528943,-125.388923,194,275,-6,1,0,11.82,./files/framegrabs/SDI1_2015-07-16 19_53_06_02856.jpg
+1849,2015-07-16 20:40:56,"DSC: Photo survey of 200-meter platform at Slope Base",44.528945,-125.388922,194,274,-7,1,0,12.29,./files/dscs/R1849_00030.jpg
+1849,2015-07-16 20:41:11,"DSC: CTD measurements during Science Pod operation",44.528947,-125.388923,194,274,-6,0,0,7.01,./files/dscs/R1849_00031.jpg
+1849,2015-07-16 20:41:19,"Pod ascending",44.528947,-125.388922,193,275,-6,0,0,5.5,./files/framegrabs/SDI1_2015-07-16 19_53_06_02884.jpg
+1849,2015-07-16 20:41:26,"DSC: Please add comment [Focal Length=26] [F-Stop=2.8] [Exposure time=0.01] [ISO Equivalent=2800]",44.52895,-125.388923,193,273,-6,1,0,0,./files/dscs/R1849_00032.jpg
+1849,2015-07-16 20:41:36,"DSC: Please add comment [Focal Length=26] [F-Stop=2.8] [Exposure time=0.01] [ISO Equivalent=5600]",44.528948,-125.38892,192,272,-6,1,0,4.35,./files/dscs/R1849_00033.jpg
+1849,2015-07-16 20:41:46,"DSC: CTD measurements during Science Pod operation",44.52895,-125.388913,190,276,-7,0,0,17.92,./files/dscs/R1849_00034.jpg
+1849,2015-07-16 20:42:05,"DSC: CTD measurements during Science Pod operation",44.528952,-125.388913,187,275,-6,1,0,7.01,./files/dscs/R1849_00035.jpg
+1849,2015-07-16 20:42:07,"Pod ascending",44.52895,-125.388917,187,275,-5,0,0,16.61,./files/framegrabs/SDI1_2015-07-16 19_53_06_02932.jpg
+1849,2015-07-16 20:42:51,"DSC: CTD measurements during Science Pod operation",44.52895,-125.388908,183,273,-7,1,0,6.15,./files/dscs/R1849_00036.jpg
+1849,2015-07-16 20:43:24,"Pod ascending",44.528947,-125.388915,179,276,-6,1,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_03009.jpg
+1849,2015-07-16 20:44:53,"DSC: CTD measurements during Science Pod operation",44.528938,-125.388922,170,276,-6,0,0,0,./files/dscs/R1849_00037.jpg
+1849,2015-07-16 20:47:50,"DSC: CTD measurements during Science Pod operation",44.52894,-125.388853,156,277,-6,1,0,4.35,./files/dscs/R1849_00038.jpg
+1849,2015-07-16 20:48:51,"DSC: CTD measurements during Science Pod operation",44.528937,-125.388928,156,275,-7,1,0,0,./files/dscs/R1849_00039.jpg
+1849,2015-07-16 20:49:20,"DSC: CTD measurements during Science Pod operation",44.528943,-125.388917,156,274,-6,1,0,2.75,./files/dscs/R1849_00040.jpg
+1849,2015-07-16 20:51:35,"DSC: CTD measurements during Science Pod operation",44.528942,-125.388907,156,274,-5,1,0,6.15,./files/dscs/R1849_00041.jpg
+1849,2015-07-16 20:52:26,"DSC: CTD measurements during Science Pod operation",44.528947,-125.388925,156,274,-5,1,0,6.15,./files/dscs/R1849_00042.jpg
+1849,2015-07-16 20:53:16,"DSC: CTD measurements during Science Pod operation",44.528947,-125.388937,157,274,-5,0,0,4.35,./files/dscs/R1849_00043.jpg
+1849,2015-07-16 20:54:42,"Port forward Niskin on ROPOS FIRED",44.528948,-125.388942,158,275,-5,1,0,14.02,./files/framegrabs/SDI1_2015-07-16 19_53_06_03687.jpg
+1849,2015-07-16 20:56:26,"Going to 100 m",44.528957,-125.38891,153,276,-6,1,0,9.91,./files/framegrabs/SDI1_2015-07-16 19_53_06_03791.jpg
+1849,2015-07-16 21:00:44,"Pod ascending",44.528948,-125.38891,127,274,-5,1,0,8.69,./files/framegrabs/SDI1_2015-07-16 19_53_06_04049.jpg
+1849,2015-07-16 21:00:59,"DSC: CTD measurements during Science Pod operation",44.528948,-125.388927,125,274,-6,0,0,18.44,./files/dscs/R1849_00044.jpg
+1849,2015-07-16 21:02:15,"Pod at 120 m depth",44.528953,-125.388907,119,276,-5,1,0,2.75,./files/framegrabs/SDI1_2015-07-16 19_53_06_04141.jpg
+1849,2015-07-16 21:04:05,"DSC: CTD measurements during Science Pod operation",44.528948,-125.38893,107,274,-5,1,0,2.75,./files/dscs/R1849_00045.jpg
+1849,2015-07-16 21:05:36,"Pod at 100 m",44.528957,-125.388932,99,274,-4,1,0,16.61,./files/framegrabs/SDI1_2015-07-16 19_53_06_04341.jpg
+1849,2015-07-16 21:06:50,"DSC: CTD measurements during Science Pod operation",44.52895,-125.388948,99,274,-5,1,0,8.01,./files/dscs/R1849_00046.jpg
+1849,2015-07-16 21:10:21,"Current is spinning the pod a bit",44.528947,-125.388977,100,273,-4,1,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_04626.jpg
+1849,2015-07-16 21:11:07,"DSC: CTD measurements during Science Pod operation",44.528945,-125.388988,100,273,-5,1,0,0,./files/dscs/R1849_00047.jpg
+1849,2015-07-16 21:11:23,"DSC: CTD measurements during Science Pod operation",44.528947,-125.388992,100,272,-4,0,0,9.91,./files/dscs/R1849_00048.jpg
+1849,2015-07-16 21:11:32,"Port aft Niskin on ROPOS fired",44.528948,-125.388988,100,273,-5,1,0,8.25,./files/dscs/R1849_00047.jpg
+1849,2015-07-16 21:13:22,"Pod suspended in darkness",44.52894,-125.388942,96,275,-5,1,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_04823.jpg
+1849,2015-07-16 21:13:45,"DSC: CTD measurements during Science Pod operation",44.528957,-125.388915,92,275,-3,0,0,16.72,./files/dscs/R1849_00049.jpg
+1849,2015-07-16 21:14:24,"DSC: CTD measurements during Science Pod operation",44.528952,-125.38891,88,271,1,1,0,12.29,./files/dscs/R1849_00050.jpg
+1849,2015-07-16 21:14:32,"Pod in darkness",44.528952,-125.388895,89,271,6,0,0,8.01,./files/framegrabs/SDI1_2015-07-16 19_53_06_04882.jpg
+1849,2015-07-16 21:15:23,"Identified submerged object: Pod at 80 m",44.528945,-125.388948,81,273,-5,0,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_04928.jpg
+1849,2015-07-16 21:16:13,"DSC: CTD measurements during Science Pod operation",44.528937,-125.38895,75,273,-3,1,0,18.34,./files/dscs/R1849_00051.jpg
+1849,2015-07-16 21:16:25,"DSC: CTD measurements during Science Pod operation",44.528933,-125.388937,74,275,-4,0,0,9.91,./files/dscs/R1849_00052.jpg
+1849,2015-07-16 21:17:17,"DSC: CTD measurements during Science Pod operation",44.52893,-125.388958,70,270,-4,0,0,19.14,./files/dscs/R1849_00053.jpg
+1849,2015-07-16 21:18:43,"Pod at 60 m",44.528942,-125.388885,59,273,0,1,0,2.75,./files/framegrabs/SDI1_2015-07-16 19_53_06_05128.jpg
+1849,2015-07-16 21:23:32,"DSC: CTD measurements during Science Pod operation",44.528925,-125.388983,59,275,-4,1,0,8.69,./files/dscs/R1849_00054.jpg
+1849,2015-07-16 21:24:43,"DSC: CTD measurements during Science Pod operation",44.528927,-125.388982,59,273,-4,0,0,5.5,./files/dscs/R1849_00055.jpg
+1849,2015-07-16 21:24:52,"DSC: CTD measurements during Science Pod operation",44.528923,-125.388983,59,273,-4,1,0,0,./files/dscs/R1849_00056.jpg
+1849,2015-07-16 21:25:12,"DSC: CTD measurements during Science Pod operation",44.52894,-125.389012,59,270,-5,0,0,4.35,./files/dscs/R1849_00057.jpg
+1849,2015-07-16 21:25:24,"DSC: CTD measurements during Science Pod operation",44.528937,-125.389027,59,271,-5,1,0,0,./files/dscs/R1849_00058.jpg
+1849,2015-07-16 21:25:59,"DSC: CTD measurements during Science Pod operation",44.528928,-125.389028,60,274,-3,1,0,0,./files/dscs/R1849_00059.jpg
+1849,2015-07-16 21:26:16,"DSC: CTD measurements during Science Pod operation",44.528933,-125.389032,60,274,-4,1,0,12.45,./files/dscs/R1849_00060.jpg
+1849,2015-07-16 21:26:49,"DSC: CTD measurements during Science Pod operation",44.528922,-125.389043,61,273,-4,2,0,0,./files/dscs/R1849_00061.jpg
+1849,2015-07-16 21:26:58,"Starboard forward niskin on ROPOS",44.528922,-125.389037,61,270,-3,1,0,2.75,./files/framegrabs/SDI1_2015-07-16 19_53_06_05623.jpg
+1849,2015-07-16 21:28:35,"Pod heading to depth of 30 m",44.528928,-125.388993,57,273,-3,1,0,6.15,./files/framegrabs/SDI1_2015-07-16 19_53_06_05720.jpg
+1849,2015-07-16 21:28:41,"DSC: CTD measurements during Science Pod operation",44.528928,-125.38899,56,274,-3,1,0,22.16,./files/dscs/R1849_00062.jpg
+1849,2015-07-16 21:31:51,"POD approaching 40 m",44.528928,-125.389052,39,272,-1,1,0,12.29,./files/framegrabs/SDI1_2015-07-16 19_53_06_05916.jpg
+1849,2015-07-16 21:33:46,"Pod at 30 m depth",44.528917,-125.389058,30,273,-6,0,0,14.15,./files/framegrabs/SDI1_2015-07-16 19_53_06_06031.jpg
+1849,2015-07-16 21:33:48,"DSC: CTD measurements during Science Pod operation",44.528917,-125.389058,30,273,-5,0,0,13.04,./files/dscs/R1849_00063.jpg
+1849,2015-07-16 21:34:00,"DSC: CTD measurements during Science Pod operation",44.528918,-125.389053,30,272,-6,0,0,0,./files/dscs/R1849_00064.jpg
+1849,2015-07-16 21:36:31,"DSC: CTD measurements during Science Pod operation",44.528928,-125.389083,30,271,-3,0,0,4.35,./files/dscs/R1849_00065.jpg
+1849,2015-07-16 21:36:45,"DSC: CTD measurements during Science Pod operation",44.528682,-125.388988,30,274,-5,0,0,5.5,./files/dscs/R1849_00066.jpg
+1849,2015-07-16 21:37:11,"DSC: CTD measurements during Science Pod operation",44.528933,-125.389085,30,274,-6,0,0,14.8,./files/dscs/R1849_00067.jpg
+1849,2015-07-16 21:37:44,"DSC: CTD measurements during Science Pod operation",44.528933,-125.389085,30,270,-5,0,0,16.61,./files/dscs/R1849_00068.jpg
+1849,2015-07-16 21:37:52,"DSC: CTD measurements during Science Pod operation",44.528933,-125.389085,30,274,-4,0,0,11.33,./files/dscs/R1849_00069.jpg
+1849,2015-07-16 21:38:18,"DSC: CTD measurements during Science Pod operation",44.528932,-125.389082,30,274,-6,0,0,4.35,./files/dscs/R1849_00070.jpg
+1849,2015-07-16 21:38:30,"DSC: CTD measurements during Science Pod operation",44.528927,-125.389083,30,274,-5,1,0,8.25,./files/dscs/R1849_00071.jpg
+1849,2015-07-16 21:38:49,"DSC: CTD measurements during Science Pod operation",44.528927,-125.389083,30,273,-5,0,0,8.25,./files/dscs/R1849_00072.jpg
+1849,2015-07-16 21:39:25,"DSC: CTD measurements during Science Pod operation",44.528918,-125.389092,31,274,-4,0,0,0,./files/dscs/R1849_00073.jpg
+1849,2015-07-16 21:39:39,"DSC: CTD measurements during Science Pod operation",44.528933,-125.389097,31,273,-4,0,0,0,./files/dscs/R1849_00074.jpg
+1849,2015-07-16 21:39:50,"DSC: CTD measurements during Science Pod operation",44.529903,-125.387543,31,272,-4,0,0,11.33,./files/dscs/R1849_00075.jpg
+1849,2015-07-16 21:39:56,"Starboard aft Niskin on ROPOS fired.",44.529903,-125.387543,31,272,-5,0,0,8.01,./files/framegrabs/SDI1_2015-07-16 19_53_06_06401.jpg
+1849,2015-07-16 21:44:57,"Ascending to surface from 30 m",44.529017,-125.388308,70,10,-7,1,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_06702.jpg
+1849,2015-07-16 22:02:21,"Last lemon from series removed from line",44.528998,-125.387948,28,270,-6,0,0,4.35,./files/framegrabs/SDI1_2015-07-16 19_53_06_07746.jpg
+1849,2015-07-16 22:05:18,"Last of the two remaining lemons removed from line",44.528928,-125.38789,8,289,-9,0,0,7.01,
+1849,2015-07-16 22:07:21,"ROPOS at surface",44.528942,-125.387858,1,356,-3,2,0,4.35,
+1849,2015-07-16 22:07:46,"ROPOS out of water",44.528897,-125.387797,0,251,-5,1,0,0,./files/framegrabs/SDI1_2015-07-16 19_53_06_08071.jpg
+1849,2015-07-16 22:11:52,"ROPOS on deck",0,0,0,0,0,0,0,0,

@@ -1,0 +1,18 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\data\ctd\at4212011x.hdr
+* Software Version Seasave V 7.23.2
+* Temperature SN = 2265
+* Conductivity SN = 2770
+* Number of Bytes Per Scan = 40
+* Number of Voltage Words = 5
+* Number of Scans Averaged by the Deck Unit = 1
+* System UpLoad Time = Jun 28 2019 17:07:54
+* NMEA Latitude = 44 22.46 N
+* NMEA Longitude = 124 57.57 W
+* NMEA UTC (Time) = Jun 28 2019  17:07:54
+* Store Lat/Lon Data = Append to Every Scan
+** shallow cast
+** PAR & pH sensor on
+** soak cast
+* System UTC = Jun 28 2019 17:07:54
+*END*

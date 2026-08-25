@@ -1,0 +1,16 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\data\ctd\at4212006.hdr
+* Software Version Seasave V 7.23.2
+* Temperature SN = 2265
+* Conductivity SN = 2770
+* Number of Bytes Per Scan = 40
+* Number of Voltage Words = 5
+* Number of Scans Averaged by the Deck Unit = 1
+* System UpLoad Time = Jun 14 2019 11:24:21
+* NMEA Latitude = 44 31.74 N
+* NMEA Longitude = 125 23.58 W
+* NMEA UTC (Time) = Jun 14 2019  11:24:21
+* Store Lat/Lon Data = Append to Every Scan
+** 250 m west of Slope Base Shallow Profiler Mooring Platform. pH and PAR installed.
+* System UTC = Jun 14 2019 11:24:21
+*END*

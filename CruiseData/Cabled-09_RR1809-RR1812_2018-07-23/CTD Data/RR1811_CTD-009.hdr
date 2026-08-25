@@ -1,0 +1,20 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\CTD\RR1810\CTDRR1811 #09.hdr
+* Software Version Seasave V 7.26.6.26
+* Temperature SN = 4307
+* Conductivity SN = 4650
+* Number of Bytes Per Scan = 44
+* Number of Voltage Words = 5
+* Number of Scans Averaged by the Deck Unit = 1
+* Append System Time to Every Scan
+* System UpLoad Time = Jul 15 2018 04:39:49
+* NMEA Latitude = 44 22.38 N
+* NMEA Longitude = 124 57.38 W
+* NMEA UTC (Time) = Jul 15 2018  04:39:48
+* Store Lat/Lon Data = Append to Every Scan
+** Ship: Revell Visions18_RR1811
+** Station: EA Offshore SP (SC01A/PC01B) pre-deployment
+** Operator: J Nelson
+**  with pH and PAR sensor
+* System UTC = Jul 15 2018 04:39:49
+*END*

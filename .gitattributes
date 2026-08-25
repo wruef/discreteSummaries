@@ -1,0 +1,12 @@
+# Discrete summary CSVs are written CRLF by the csv module (RFC 4180). Preserve verbatim.
+*.csv -text
+# Raw instrument files are binary-ish provenance; never normalize.
+*.cnv -text
+*.hex -text
+*.hdr -text
+*.btl -text
+*.ros -text
+*.bl  -text
+*.XMLCON -text
+*.ct2 -text
+*.CT2 -text

@@ -1,0 +1,20 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\CTD\RR1812\CTD_1812#12.hdr
+* Software Version Seasave V 7.26.6.26
+* Temperature SN = 4307
+* Conductivity SN = 4650
+* Number of Bytes Per Scan = 44
+* Number of Voltage Words = 5
+* Number of Scans Averaged by the Deck Unit = 1
+* Append System Time to Every Scan
+* System UpLoad Time = Jul 23 2018 23:20:05
+* NMEA Latitude = 44 22.00 N
+* NMEA Longitude = 124 57.30 W
+* NMEA UTC (Time) = Jul 23 2018  23:20:04
+* Store Lat/Lon Data = Append to Every Scan
+** Ship: Revell 250  m Sw of DP(2017) @ Endurance Array-600 m site
+** Station: Endurance Offshore
+** Operator: J.Nelson
+** No samples taken
+* System UTC = Jul 23 2018 23:20:05
+*END*

@@ -1,0 +1,30 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\Data\TN326\TN326_CTD22.hdr
+* Software Version Seasave V 7.23.2
+* Temperature SN = 2131
+* Conductivity SN = 2881
+* Number of Bytes Per Scan = 41
+* Number of Voltage Words = 4
+* Number of Scans Averaged by the Deck Unit = 1
+* Append System Time to Every Scan
+* System UpLoad Time = Jul 25 2015 00:35:30
+* NMEA Latitude = 44 22.09 N
+* NMEA Longitude = 124 57.01 W
+* NMEA UTC (Time) = Jul 25 2015 00:35:28
+* Store Lat/Lon Data = Append to Every Scan
+* SBE 11plus V 5.2
+* number of scans to average = 1
+* pressure baud rate = 9600
+* NMEA baud rate = 4800
+* Latitude/Longitude added to scan
+* GPIB address = 1
+* advance primary conductivity  0.073 seconds
+* advance secondary conductivity  0.073 seconds
+* autorun on power up is disabled
+* S>
+** Ship: R/V Thompson
+** Station: 200 m east of EA Offshore DP (600 m)
+** Operator: Kawka
+** with PAR and pH
+* System UTC = Jul 25 2015 00:35:30
+*END*

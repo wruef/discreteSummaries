@@ -1,0 +1,129 @@
+IRLS Dive Data CSV Export. (Version 1.1)
+
+Dive Information:
+Dive Number, Tasks, Start Date, End Date
+1859,"Endurance Offshore Deep Profiler: After deck deployment of the full mooring for the EA Offshore Deep Profiler (DP01B), this dive located and surveyed  the anchor for the docking station (PD01B). The cable OSHYW1 from LV01C was plugged into the docking station. A ROPOS-based CTD vertical survey was conducted of the water column alongside the profiler mooring line, and Niskin bottles were tripped at depths of 574, 501, 450, and 400 mbsl during ascent. The deep profiler was observed in an active downcast during this ascent. The transponder was retrieved from the top of the DP float near the end of the dive.",2015-07-24 20:27:00,2015-07-24 23:14:00
+
+Site(s):
+Name,Comments
+
+Scientist(s):
+Name, Organization
+
+Observations:
+Dive Number,Date(UTC),Observation,Latitude,Longitude,Depth(m),Heading,Pitch(deg),Roll(deg),Altitude(m),Speed(knots),File
+1859,2015-07-24 20:42:58,"Launched at 20:27 - I was late on arrival",44.369097,-124.953348,78,227,-7,1,0,0,
+1859,2015-07-24 20:46:46,"lemons already on, descending",44.369095,-124.95334,134,240,-4,1,0,13.75,
+1859,2015-07-24 20:49:11,"DSC: Please add comment [Focal Length=66] [F-Stop=2.8] [Exposure time=0.01] [ISO Equivalent=900]",44.369138,-124.95322,171,241,-5,1,0,7.01,./files/dscs/R1859_00001.jpg
+1859,2015-07-24 20:54:28,"DSC: Please add comment [Focal Length=66] [F-Stop=2.8] [Exposure time=0.01] [ISO Equivalent=1000]",44.369188,-124.953432,273,240,-5,1,0,0,./files/dscs/R1859_00002.jpg
+1859,2015-07-24 20:55:16,"DSC: Please add comment [Focal Length=66] [F-Stop=2.8] [Exposure time=0.01] [ISO Equivalent=900]",44.369185,-124.953472,292,239,0,0,0,0,./files/dscs/R1859_00003.jpg
+1859,2015-07-24 21:02:31,"Biology, fish? bottom right",44.36924,-124.95358,481,240,-5,2,0,4.35,./files/framegrabs/SDI1_2015-07-24 20_26_14_02176.jpg
+1859,2015-07-24 21:03:09,"biology, definitely fish.",44.369158,-124.953588,496,238,-5,1,0,8.25,./files/framegrabs/SDI1_2015-07-24 20_26_14_02208.jpg
+1859,2015-07-24 21:04:24,"biology, big jelly fish with long tail",44.369062,-124.953417,525,156,-2,0,0,17.6,./files/framegrabs/SDI1_2015-07-24 20_26_14_02284.jpg
+1859,2015-07-24 21:05:30,"Profiler visible in sonar",44.368903,-124.953225,552,155,-2,0,0,8.01,
+1859,2015-07-24 21:06:04,"Moving ship 5m South",44.368848,-124.953167,565,155,-3,1,15,0,
+1859,2015-07-24 21:06:39,"Bottom in sight.",44.368728,-124.953062,577,155,-4,0,4,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_02424.jpg
+1859,2015-07-24 21:07:10,"Profiler straight ahead.",44.368663,-124.953002,578,155,-5,0,3,0,
+1859,2015-07-24 21:09:41,"DP anchor.",44.368335,-124.952815,576,175,-5,1,5,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_02548.jpg
+1859,2015-07-24 21:09:47,"DSC: deep profiler",44.368333,-124.952813,578,173,-5,1,4,0,./files/dscs/R1859_00006.jpg
+1859,2015-07-24 21:10:19,"DP anchor.",44.368348,-124.952812,574,175,-4,0,7,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_02617.jpg
+1859,2015-07-24 21:10:32,"DP anchor.",44.368353,-124.952817,573,175,-4,1,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_02635.jpg
+1859,2015-07-24 21:10:36,"DSC: deep profiler",44.368357,-124.952815,573,175,-5,1,8,0,./files/dscs/R1859_00007.jpg
+1859,2015-07-24 21:10:46,"DP anchor.",44.368357,-124.952813,572,175,-6,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_02671.jpg
+1859,2015-07-24 21:12:31,"Survey of DP anchor complete, location confirmed within range of cable.",44.368378,-124.952808,580,234,-6,1,1,0,
+1859,2015-07-24 21:13:29,"DSC: cabling",44.368297,-124.953032,581,233,-4,1,2,0,./files/dscs/R1859_00008.jpg
+1859,2015-07-24 21:13:38,"OSHYW1 cable found",44.36829,-124.953058,581,233,-4,1,2,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_02835.jpg
+1859,2015-07-24 21:14:28,"DSC: Biology, some floating red circle",44.368287,-124.953142,581,157,-6,1,1,0,./files/dscs/R1859_00009.jpg
+1859,2015-07-24 21:14:40,"SB manip retrieving connector OSHYW1-P2, dummy cap in place.",44.368285,-124.953145,581,159,-8,0,1,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_02903.jpg
+1859,2015-07-24 21:14:54,"DSC: Picking up connector end",44.36827,-124.953142,581,159,-6,0,1,0,./files/dscs/R1859_00010.jpg
+1859,2015-07-24 21:18:54,"DSC: Starboard arm holding onto connector",44.368287,-124.953165,578,158,-7,0,4,0,./files/dscs/R1859_00011.jpg
+1859,2015-07-24 21:19:32,"Port manip gripping the line attached to biner.",44.36829,-124.953165,582,159,-4,1,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_03198.jpg
+1859,2015-07-24 21:21:25,"ROPOS holding while ship adjusts to better station keeping position",44.36829,-124.953152,582,159,-4,1,0,0,
+1859,2015-07-24 21:25:09,"Biner has been placed onto porch.",44.368275,-124.953138,582,160,-4,1,0,9.91,./files/framegrabs/SDI1_2015-07-24 20_26_14_03533.jpg
+1859,2015-07-24 21:25:11,"DSC: port arm setting down hook attached to cable",44.368275,-124.953135,582,160,-4,0,0,11.33,./files/dscs/R1859_00012.jpg
+1859,2015-07-24 21:26:12,"Port manip has hold of biner itself, SB manip shaking connector to clear off sediment.",44.368278,-124.953137,582,162,-4,0,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_03590.jpg
+1859,2015-07-24 21:29:42,"ROPOS moving to base of mooring with OSHYW1-P2 connector cable.",44.368288,-124.953128,580,166,-4,0,2,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_03806.jpg
+1859,2015-07-24 21:31:37,"Base of mooring in sight.",44.3683,-124.952887,579,90,-7,0,4,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_03922.jpg
+1859,2015-07-24 21:32:31,"DSC: Mooring base",44.368307,-124.95288,573,90,-9,0,9,0,./files/dscs/R1859_00013.jpg
+1859,2015-07-24 21:32:35,"Docking station PD01B.",44.368303,-124.952882,573,91,-8,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_03979.jpg
+1859,2015-07-24 21:36:36,"Starboard arm grabbed onto PD01B.",44.368318,-124.952835,573,103,-8,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04219.jpg
+1859,2015-07-24 21:37:24,"DSC: connecting 'biner to base of docking station",44.368313,-124.952835,574,103,-12,0,9,0,./files/dscs/R1859_00014.jpg
+1859,2015-07-24 21:38:17,"Port arm securing the loose end of the biner connected to OSHYW1-P2 to PD01B.",44.368305,-124.952835,574,103,-13,0,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04319.jpg
+1859,2015-07-24 21:39:18,"DSC: removing connector",44.368307,-124.952835,573,103,-13,0,9,0,./files/dscs/R1859_00015.jpg
+1859,2015-07-24 21:39:20,"Port arm removing dummy plug off of PD01B.",44.368308,-124.952833,573,103,-13,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04383.jpg
+1859,2015-07-24 21:39:56,"DSC: Port arm putting connector into crate on porch",44.368308,-124.952833,573,103,-12,0,9,0,./files/dscs/R1859_00016.jpg
+1859,2015-07-24 21:40:07,"Port arm placed dummy plug in milk crate.",44.368308,-124.952833,573,103,-13,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04424.jpg
+1859,2015-07-24 21:41:18,"Port arm grabbed OSHYW1-P2 connector cable off of the porch, to connect to PD01B.",44.368312,-124.952832,574,103,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04501.jpg
+1859,2015-07-24 21:41:28,"Port arm dropped OSHYW1-P2. Thank you biner.",44.368313,-124.952832,574,103,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04503.jpg
+1859,2015-07-24 21:42:14,"DSC: Port arm moving to retrieve hanging connector",44.368312,-124.952828,574,102,-10,0,8,0,./files/dscs/R1859_00017.jpg
+1859,2015-07-24 21:42:29,"Port arm lifting OSHYW1 cable up to try to reach the OSHYW1-P2 connector.",44.368308,-124.952832,574,104,-11,0,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04574.jpg
+1859,2015-07-24 21:43:45,"Port arm being creative by extending the arm and sliding the cable over it to try to get a hold of the OSHYW1-P2 connector.",44.368308,-124.952832,573,103,-14,0,9,11.82,./files/framegrabs/SDI1_2015-07-24 20_26_14_04650.jpg
+1859,2015-07-24 21:44:48,"ROPOS extending its port arm all the way to port to continue trying to grab OSHYW1-P2.",44.368307,-124.952833,574,103,-12,2,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04714.jpg
+1859,2015-07-24 21:45:48,"Port arm trying to edge OSHYW1-P2 onto the porch.",44.368307,-124.95283,573,103,-12,0,9,15.18,./files/framegrabs/SDI1_2015-07-24 20_26_14_04766.jpg
+1859,2015-07-24 21:47:26,"Port arm now has a hold of PD01B. And starboard arm released PD01B to reach for OSHYW1-P2 connector.",44.368302,-124.952827,574,103,-12,0,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04887.jpg
+1859,2015-07-24 21:48:23,"Starboard arm attempting to grab OSHYW1-P2.",44.368298,-124.952828,574,103,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_04926.jpg
+1859,2015-07-24 21:49:50,"ROPOS attempting to play twister.",44.368302,-124.952828,574,103,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05014.jpg
+1859,2015-07-24 21:50:24,"Starboard arm reaching over port arm to grab OSHYW1-P2.",44.3683,-124.952825,574,102,-11,0,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05049.jpg
+1859,2015-07-24 21:51:48,"Starboard arm now using its manipulator to hook OSHYW1 to try to pull it over the port arm.",44.368295,-124.952822,574,103,-11,1,9,17.6,./files/framegrabs/SDI1_2015-07-24 20_26_14_05132.jpg
+1859,2015-07-24 21:52:29,"OSHYW1-P2 connector now on top of port arm and is now easily accessible.",44.368293,-124.952827,573,103,-12,2,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05188.jpg
+1859,2015-07-24 21:53:09,"Starboard arm successfully grabbed a hold of OSHYW1-P2.",44.368293,-124.952827,573,103,-12,2,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05214.jpg
+1859,2015-07-24 21:54:02,"Plug on PD01B.",44.368295,-124.952828,573,103,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05266.jpg
+1859,2015-07-24 21:54:45,"Plug on OSHYW1-P2.",44.368293,-124.95283,574,103,-11,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05308.jpg
+1859,2015-07-24 21:55:38,"Cockatoo squid.",44.368297,-124.952832,573,103,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05358.jpg
+1859,2015-07-24 21:55:44,"DSC: Connecting the cable to the mooring",44.368297,-124.952832,573,103,-12,0,9,13.75,./files/dscs/R1859_00018.jpg
+1859,2015-07-24 21:55:56,"Starboard arm connecting OSHYW1-P2 to PD01B.",44.368297,-124.952832,573,103,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05380.jpg
+1859,2015-07-24 21:56:53,"OSHYW1-P2 successfully connected to PD01B.",44.368297,-124.952828,573,104,-12,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05437.jpg
+1859,2015-07-24 21:57:35,"The connection between OSHYW1-P2 and PD01B.",44.368293,-124.952827,573,103,-12,1,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05479.jpg
+1859,2015-07-24 21:58:08,"Port arm released PD01B.",44.368302,-124.952848,573,99,-5,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05505.jpg
+1859,2015-07-24 21:59:02,"PD01B.",44.368248,-124.952847,572,25,-8,0,10,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05566.jpg
+1859,2015-07-24 21:59:52,"Starboard arm grabbed a hold of one of loops on the beacon.",44.368262,-124.952813,573,15,-14,1,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05616.jpg
+1859,2015-07-24 22:00:13,"Starboard arm released the beacon, ROPOS is backing up and trying again to remove the beacon.",44.368257,-124.952812,574,13,-10,0,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05630.jpg
+1859,2015-07-24 22:00:44,"DSC: Beacon on mooring",44.36825,-124.952798,573,357,-9,1,9,0,./files/dscs/R1859_00020.jpg
+1859,2015-07-24 22:01:49,"Starboard and port have a hold on the release pins for the beacon.",44.368267,-124.952795,573,354,-10,1,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05733.jpg
+1859,2015-07-24 22:02:11,"Beacon is released, and DP01B is ready to power up.",44.368257,-124.952778,573,354,-8,1,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05749.jpg
+1859,2015-07-24 22:03:23,"Beacon release pin placed in milk crate.",44.368227,-124.952783,573,353,-7,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05803.jpg
+1859,2015-07-24 22:04:01,"Port arm attaching one end of a biner to the beacon.",44.368227,-124.952782,573,354,-7,1,8,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05865.jpg
+1859,2015-07-24 22:04:33,"Port arm attaching other end of biner to the milk crate to secure the beacon for ascent.",44.368223,-124.952783,573,354,-8,1,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_05914.jpg
+1859,2015-07-24 22:07:30,"Water sample collected.
+Depth: 574m
+Niskin: Port forward",44.368238,-124.952792,573,354,-7,0,9,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_06087.jpg
+1859,2015-07-24 22:14:55,"Water sample collected.
+Depth: 501m 
+Niskin: Port aft.",44.368322,-124.952812,500,133,-5,1,0,7.01,./files/framegrabs/SDI1_2015-07-24 20_26_14_06520.jpg
+1859,2015-07-24 22:18:59,"Water sample collected.
+Depth: 450m
+Niskin: Starboard forward.",44.368338,-124.952828,449,133,-6,1,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_06765.jpg
+1859,2015-07-24 22:22:48,"Water sample collected.
+Depth: 399m
+Niskin: Starboard aft.",44.368327,-124.952787,399,133,-6,1,0,7.01,./files/framegrabs/SDI1_2015-07-24 20_26_14_06994.jpg
+1859,2015-07-24 22:24:12,"Stowing the protective cap that was on the OSHYW1-P2 cable connector.",44.368507,-124.952943,399,134,-7,1,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_07063.jpg
+1859,2015-07-24 22:27:50,"DSC: Deep Profiler pod",44.368297,-124.952808,349,133,-4,0,0,13.04,./files/dscs/R1859_00021.jpg
+1859,2015-07-24 22:27:56,"DP01B going down.",44.368298,-124.952808,348,133,-3,0,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_07293.jpg
+1859,2015-07-24 22:29:37,"Biology: plankton",44.368318,-124.952823,305,134,-6,4,0,9.72,./files/framegrabs/SDI1_2015-07-24 20_26_14_07399.jpg
+1859,2015-07-24 22:31:08,"Biology: plankton",44.368322,-124.952767,267,133,-6,3,0,12.45,./files/framegrabs/SDI1_2015-07-24 20_26_14_07492.jpg
+1859,2015-07-24 22:38:00,"float sighted",44.368363,-124.9528,92,133,-1,4,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_07902.jpg
+1859,2015-07-24 22:38:20,"DSC: Float in view",44.368385,-124.95282,85,133,-2,2,0,0,./files/dscs/R1859_00022.jpg
+1859,2015-07-24 22:38:20,"Deep profiler float",44.368385,-124.95282,85,133,-2,2,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_07925.jpg
+1859,2015-07-24 22:38:32,"DSC: Float in view",44.368383,-124.952815,84,134,-3,0,0,14.02,./files/dscs/R1859_00023.jpg
+1859,2015-07-24 22:38:57,"DSC: view of milk crate",44.368365,-124.952817,84,133,-4,1,0,9.91,./files/dscs/R1859_00025.jpg
+1859,2015-07-24 22:39:11,"Port arm getting the retrieval rope",44.368387,-124.952818,84,133,-4,2,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_07973.jpg
+1859,2015-07-24 22:40:10,"Beaner placed on box",44.368393,-124.952828,84,133,-6,1,0,8.01,./files/framegrabs/SDI1_2015-07-24 20_26_14_08027.jpg
+1859,2015-07-24 22:41:08,"second biner in port arm to grab beacon",44.368398,-124.952828,84,134,-4,1,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_08093.jpg
+1859,2015-07-24 22:42:17,"shark biology",44.368368,-124.952797,84,133,-2,0,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_08160.jpg
+1859,2015-07-24 22:42:31,"DSC: bumper below buoy.",44.368362,-124.95279,84,133,-1,0,0,20.29,./files/dscs/R1859_00026.jpg
+1859,2015-07-24 22:42:38,"biology shark!",44.368368,-124.952775,84,133,0,0,0,8.69,./files/framegrabs/SDI1_2015-07-24 20_26_14_08159.jpg
+1859,2015-07-24 22:43:10,"starboard arm grabs ring on float",44.368368,-124.952785,83,133,-10,1,0,8.01,./files/framegrabs/SDI1_2015-07-24 20_26_14_08213.jpg
+1859,2015-07-24 22:45:07,"attaching biner to beacon with port arm",44.368442,-124.952817,84,133,-12,3,0,13.75,./files/framegrabs/SDI1_2015-07-24 20_26_14_08330.jpg
+1859,2015-07-24 22:46:12,"successful attachment of biner to beacon by portarm",44.368423,-124.952887,84,132,-8,1,0,17.39,./files/framegrabs/SDI1_2015-07-24 20_26_14_08395.jpg
+1859,2015-07-24 22:46:42,"beacon out of float and in port hand",44.368415,-124.952897,84,131,-4,0,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_08425.jpg
+1859,2015-07-24 22:47:38,"beacon in basket by port arm",44.368402,-124.952895,83,134,-9,3,0,13.75,./files/framegrabs/SDI1_2015-07-24 20_26_14_08481.jpg
+1859,2015-07-24 22:48:48,"starboard arm releases float",44.36847,-124.952882,84,133,-5,3,0,12.29,./files/framegrabs/SDI1_2015-07-24 20_26_14_08551.jpg
+1859,2015-07-24 22:49:06,"begin final ascent",44.368535,-124.952927,87,132,-5,1,0,0,./files/framegrabs/SDI1_2015-07-24 20_26_14_08557.jpg
+1859,2015-07-24 22:49:40,"lemons spotted",44.36857,-124.953063,92,132,-6,1,0,13.75,./files/framegrabs/SDI1_2015-07-24 20_26_14_08601.jpg
+1859,2015-07-24 22:51:58,"lemon removal begins",44.368605,-124.953425,93,146,-9,1,0,0,
+1859,2015-07-24 22:53:19,"lemons are going astern and so have to move rov forward",44.368628,-124.953352,87,257,-1,2,0,12.29,
+1859,2015-07-24 23:04:00,"All lemons removed",44.368717,-124.953518,20,158,-2,1,0,8.25,
+1859,2015-07-24 23:07:46,"rov spotted",44.368797,-124.953508,11,157,0,0,0,12.29,
+1859,2015-07-24 23:08:26,"rov on surface",44.36881,-124.953498,1,155,-9,2,0,0,
+1859,2015-07-24 23:08:56,"rov in the air",44.36881,-124.953498,0,152,4,2,0,18.44,
+1859,2015-07-24 23:14:59,"rov on deck",44.36881,-124.953498,0,109,3,1,0,16.61,

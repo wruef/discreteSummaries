@@ -1,0 +1,188 @@
+IRLS Dive Data CSV Export. (Version 1.1)
+
+Dive Information:
+Dive Number, Tasks, Start Date, End Date
+1855,"Slope Base Deep Profiler Mooring: During this bounce dive on the Deep Profiler Mooring (DP01A-2015), cable SBVMW4 from LV01A was connected to the docking station. The beacons from the base and top of the mooring were recovered and four Niskins bottles were tripped at 2600, 2700, 2800 meters, and near dock. ROPOS followed the mooring cable upward with the CTD running for follow-on verification. Immediately after connection of the cable, the mooring was powered up. Communication with APL onshore showed that the docking station and Deep Profiler were communicating, no ground faults were detected. Two of the &quot;weird fish&quot; (Genioliparis ferox) were also observed and imaged.",2015-07-22 23:09:00,2015-07-23 06:04:00
+
+Site(s):
+Name,Comments
+
+Scientist(s):
+Name, Organization
+
+Observations:
+Dive Number,Date(UTC),Observation,Latitude,Longitude,Depth(m),Heading,Pitch(deg),Roll(deg),Altitude(m),Speed(knots),File
+1855,2015-07-22 23:09:35,"ROPOS off deck.",44.52756,-125.380743,0,6,1,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_00181.jpg
+1855,2015-07-22 23:10:11,"DSC: ROPOS porch pre-deployment.",44.52756,-125.380743,0,6,1,0,0,0,./files/dscs/R1855_00001.jpg
+1855,2015-07-22 23:13:00,"ROPOS in water.",44.52631,-125.379028,0,301,0,1,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_00390.jpg
+1855,2015-07-22 23:15:43,"Lemons.",44.526323,-125.379262,27,304,-9,1,0,0,
+1855,2015-07-22 23:26:38,"Last lemon. Now descending.",44.526358,-125.37926,98,303,-7,1,0,8.25,./files/framegrabs/SDI1_2015-07-22 23_06_34_01201.jpg
+1855,2015-07-22 23:47:41,"Biology: squid!",44.526587,-125.379453,517,304,-3,1,0,7.01,./files/framegrabs/SDI1_2015-07-22 23_06_34_02465.jpg
+1855,2015-07-23 00:02:32,"Biology:  As a subjective observation, salps seem to be more numerous at this site than at Axial or Hydrate.  Difficult to capture on camera.",44.527117,-125.380013,883,334,-4,1,0,14.15,
+1855,2015-07-23 01:24:39,"Bottom in sight on sonar.",44.527252,-125.380282,2875,323,-6,1,25,0,
+1855,2015-07-23 01:25:27,"Bottom in sight.",44.5272,-125.380225,2894,324,-7,1,6,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08342.jpg
+1855,2015-07-23 01:26:37,"Flange box and sea cucumbers in sight.",44.527252,-125.380227,2896,347,-6,0,4,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08417.jpg
+1855,2015-07-23 01:26:50,"DSC: Please add comment [Focal Length=27] [F-Stop=2.8] [Exposure time=0.01] [ISO Equivalent=1400]",44.527288,-125.380237,2895,338,-5,0,5,0,./files/dscs/R1855_00002.jpg
+1855,2015-07-23 01:26:57,"Flange box.",44.527303,-125.38025,2895,338,-5,1,5,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08421.jpg
+1855,2015-07-23 01:27:18,"DSC: Flange box spotted",44.527312,-125.380235,2896,325,-6,0,4,0,./files/dscs/R1855_00003.jpg
+1855,2015-07-23 01:27:27,"DSC: Flange box",44.527307,-125.380222,2896,322,-6,0,4,0,./files/dscs/R1855_00004.jpg
+1855,2015-07-23 01:27:48,"DSC: Biology &quot;ugly fish&quot;",44.527273,-125.380218,2898,311,-5,1,2,0,./files/dscs/R1855_00005.jpg
+1855,2015-07-23 01:27:59,"DSC: Biology &quot;ugly fish&quot;",44.527272,-125.380228,2898,311,-6,1,2,0,./files/dscs/R1855_00006.jpg
+1855,2015-07-23 01:28:00,"Weird fish sighting. Genioloparis ferox.",44.527272,-125.380228,2898,311,-6,1,2,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08485.jpg
+1855,2015-07-23 01:28:10,"DSC: Biology &quot;ugly fish&quot;",44.527267,-125.380225,2897,310,-6,0,3,0,./files/dscs/R1855_00007.jpg
+1855,2015-07-23 01:28:26,"DSC: Biology &quot;ugly fish&quot;",44.527258,-125.380233,2896,329,-6,1,4,0,./files/dscs/R1855_00008.jpg
+1855,2015-07-23 01:28:46,"DSC: Biology &quot;ugly fish&quot;",44.527237,-125.380277,2898,12,-5,1,2,0,./files/dscs/R1855_00009.jpg
+1855,2015-07-23 01:28:56,"DSC: Biology &quot;ugly fish&quot;",44.527252,-125.38027,2899,11,-7,0,1,0,./files/dscs/R1855_00010.jpg
+1855,2015-07-23 01:28:56,"Weird fish, Genioloparis ferox.",44.527252,-125.38027,2899,11,-7,0,1,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08541.jpg
+1855,2015-07-23 01:29:16,"DSC: Biology &quot;ugly fish&quot;",44.527223,-125.380262,2898,10,-6,1,3,0,./files/dscs/R1855_00011.jpg
+1855,2015-07-23 01:29:26,"DSC: Biology &quot;ugly fish&quot;",44.52723,-125.380258,2899,10,-7,2,1,0,./files/dscs/R1855_00012.jpg
+1855,2015-07-23 01:29:36,"DSC: Biology &quot;ugly fish&quot;",44.527225,-125.380252,2899,10,-7,1,1,0,./files/dscs/R1855_00013.jpg
+1855,2015-07-23 01:29:36,"Weird fish.",44.527225,-125.380252,2899,10,-7,1,1,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08579.jpg
+1855,2015-07-23 01:29:57,"DSC: Biology &quot;ugly fish&quot;",44.527217,-125.380252,2898,10,-6,0,2,0,./files/dscs/R1855_00014.jpg
+1855,2015-07-23 01:31:45,"Starboard arm grabbed SBVMW4 cable from flange box.",44.527337,-125.380267,2899,324,-7,0,2,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08711.jpg
+1855,2015-07-23 01:32:04,"ROPOS moving cable to PD01A.",44.527332,-125.380265,2897,314,-8,0,3,12.45,./files/framegrabs/SDI1_2015-07-22 23_06_34_08729.jpg
+1855,2015-07-23 01:33:54,"SBVMW4 cable transferred to port arm.",44.527333,-125.380232,2896,294,-9,1,4,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08825.jpg
+1855,2015-07-23 01:34:37,"DSC: Flange box before retrieval.",44.527352,-125.380247,2896,289,-9,1,4,0,./files/dscs/R1855_00015.jpg
+1855,2015-07-23 01:35:10,"Starboard arm grabbed flange box.",44.527353,-125.380253,2899,289,-11,1,1,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_08927.jpg
+1855,2015-07-23 01:35:27,"DSC: Flange box in transit.",44.527355,-125.380242,2897,290,-10,1,3,0,./files/dscs/R1855_00016.jpg
+1855,2015-07-23 01:39:30,"PD01A in sight behind ROPOS starboard arm.",44.527508,-125.380645,2895,301,-12,1,5,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_09191.jpg
+1855,2015-07-23 01:40:37,"Starboard arm dropped flange box right in front of PD01A.",44.527503,-125.380662,2896,327,-14,0,5,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_09243.jpg
+1855,2015-07-23 01:43:03,"Waiting for visibility to improve after flange box disrupted sediment on the sea floor.",44.527477,-125.380598,2900,314,-2,0,0,7.01,./files/framegrabs/SDI1_2015-07-22 23_06_34_09387.jpg
+1855,2015-07-23 01:44:43,"Port arm picked up cable SBVMW4 connector.",44.527475,-125.380612,2899,299,-9,1,1,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_09474.jpg
+1855,2015-07-23 01:45:06,"DSC: Placing connector with flange until needed",44.527487,-125.380635,2898,273,-8,1,2,0,./files/dscs/R1855_00018.jpg
+1855,2015-07-23 01:45:19,"Port arm placed connector of cable SBVMW4 inside flange box.",44.527492,-125.380647,2900,274,-7,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_09522.jpg
+1855,2015-07-23 01:48:47,"DSC: Brief survey of cable location, whether it is laid out straight.",44.527387,-125.380597,2897,327,-4,0,3,0,./files/dscs/R1855_00019.jpg
+1855,2015-07-23 01:52:03,"Port arm grabbed SBVMW4 cable connector.",44.527507,-125.380657,2899,319,-8,0,1,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_09920.jpg
+1855,2015-07-23 01:52:37,"Starboard arm grabbed flange box by its FACT.",44.527513,-125.380663,2899,319,-8,1,1,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_09963.jpg
+1855,2015-07-23 01:54:28,"Starboard arm released FACT.",44.527567,-125.380667,2898,324,-13,2,2,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10073.jpg
+1855,2015-07-23 01:55:30,"Connector to cable SBVMW4 transferred from port arm to starboard arm.",44.527552,-125.380652,2898,325,-7,0,2,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10133.jpg
+1855,2015-07-23 01:56:14,"DSC: Porch view",44.527542,-125.380652,2898,324,-7,0,2,0,./files/dscs/R1855_00021.jpg
+1855,2015-07-23 01:57:16,"Cable SBVMW4 placed on porch.",44.527532,-125.380692,2898,325,-6,0,2,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10213.jpg
+1855,2015-07-23 01:57:27,"DSC: Porch view with connector over post.",44.527533,-125.380692,2898,324,-6,1,2,0,./files/dscs/R1855_00022.jpg
+1855,2015-07-23 01:57:58,"Port arm picked up cable SBVMW4.",44.52753,-125.380693,2898,325,-6,1,2,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10282.jpg
+1855,2015-07-23 02:00:24,"Starboard arm picked up cable SBVMW4.",44.527538,-125.380703,2896,329,-10,0,3,6.15,./files/framegrabs/SDI1_2015-07-22 23_06_34_10411.jpg
+1855,2015-07-23 02:00:41,"DSC: survey anchor of DP",44.527558,-125.380713,2894,329,-10,0,6,0,./files/dscs/R1855_00023.jpg
+1855,2015-07-23 02:00:46,"PD01A in background.",44.527558,-125.380713,2893,329,-9,1,6,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10445.jpg
+1855,2015-07-23 02:00:51,"DSC: survey anchor of DP",44.527558,-125.380717,2893,329,-9,0,7,0,./files/dscs/R1855_00024.jpg
+1855,2015-07-23 02:01:00,"DSC: survey anchor of DP",44.527563,-125.380712,2891,326,-10,0,9,0,./files/dscs/R1855_00025.jpg
+1855,2015-07-23 02:01:25,"DSC: survey anchor of DP",44.527577,-125.380698,2891,310,-9,0,9,0,./files/dscs/R1855_00026.jpg
+1855,2015-07-23 02:01:29,"Dock for deep profiler.",44.527577,-125.380698,2891,310,-9,0,9,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10488.jpg
+1855,2015-07-23 02:01:37,"DSC: survey anchor of DP",44.527578,-125.380703,2891,310,-8,0,9,0,./files/dscs/R1855_00027.jpg
+1855,2015-07-23 02:02:12,"DSC: survey anchor of DP",44.527572,-125.380688,2891,305,-7,0,9,0,./files/dscs/R1855_00028.jpg
+1855,2015-07-23 02:02:41,"Port arm placed connector of SVBMW4 on ROPOS porch.",44.527577,-125.380698,2891,305,-9,0,9,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10564.jpg
+1855,2015-07-23 02:03:51,"DSC: port manip needs to move behind to grab onto white cord",44.527573,-125.380693,2891,305,-8,0,9,0,./files/dscs/R1855_00029.jpg
+1855,2015-07-23 02:04:04,"Port arm grabbing loose biner from cable to connect to docking station of deep profiler.",44.527573,-125.380695,2891,305,-8,0,9,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10646.jpg
+1855,2015-07-23 02:04:27,"DSC: cable transferred successfully",44.527573,-125.380697,2891,304,-10,0,9,0,./files/dscs/R1855_00030.jpg
+1855,2015-07-23 02:04:41,"Docking station of PD01A.",44.527573,-125.380698,2891,305,-10,0,9,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10684.jpg
+1855,2015-07-23 02:05:43,"Starboard arm grabbed the docking station for PD01A.",44.527578,-125.380708,2892,305,-8,0,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_10740.jpg
+1855,2015-07-23 02:06:29,"DSC: survey of DP mooring",44.527578,-125.380717,2892,306,-12,-5,8,0,./files/dscs/R1855_00031.jpg
+1855,2015-07-23 02:06:39,"DSC: survey of DP mooring",44.527582,-125.380718,2892,304,-10,0,7,0,./files/dscs/R1855_00032.jpg
+1855,2015-07-23 02:06:42,"Port arm attaching loose biner from cable SBVMW4 to docking station for PD01A.",44.527582,-125.380717,2892,304,-11,0,7,9.72,./files/framegrabs/SDI1_2015-07-22 23_06_34_10808.jpg
+1855,2015-07-23 02:06:52,"DSC: survey of DP mooring",44.527587,-125.38072,2892,304,-9,1,7,0,./files/dscs/R1855_00033.jpg
+1855,2015-07-23 02:07:41,"Port arm removing dummy plug.",44.527582,-125.380725,2892,305,-10,1,8,5.5,./files/framegrabs/SDI1_2015-07-22 23_06_34_10864.jpg
+1855,2015-07-23 02:08:04,"DSC: survey of DP mooring",44.527582,-125.380727,2892,305,-10,0,8,15.18,./files/dscs/R1855_00034.jpg
+1855,2015-07-23 02:08:04,"Inside of port on the docking station where cable SBVMW4 will be connected.",44.527582,-125.380727,2892,305,-10,0,8,15.18,./files/framegrabs/SDI1_2015-07-22 23_06_34_10894.jpg
+1855,2015-07-23 02:08:20,"DSC: survey of DP mooring",44.527578,-125.380732,2892,305,-10,0,8,14.8,./files/dscs/R1855_00035.jpg
+1855,2015-07-23 02:09:26,"DSC: dummy plug into milk crate",44.527578,-125.380737,2892,304,-10,0,8,0,./files/dscs/R1855_00036.jpg
+1855,2015-07-23 02:11:24,"Port arm picked up cable SBVMW4 from porch.",44.527578,-125.380743,2892,305,-9,0,8,13.75,./files/framegrabs/SDI1_2015-07-22 23_06_34_11087.jpg
+1855,2015-07-23 02:12:51,"Port arm placed cable SBVMW4-P2 back on porch.",44.527578,-125.380738,2892,305,-9,0,7,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11174.jpg
+1855,2015-07-23 02:13:46,"Port arm removed dummy plug from SBVMW4.",44.527578,-125.380733,2892,305,-9,1,8,10.47,./files/framegrabs/SDI1_2015-07-22 23_06_34_11231.jpg
+1855,2015-07-23 02:13:57,"DSC: connector released from dummy. dummy left on porch.",44.527578,-125.380733,2892,305,-9,0,8,0,./files/dscs/R1855_00037.jpg
+1855,2015-07-23 02:14:13,"DSC: connector ready to mate",44.52758,-125.380732,2892,305,-9,0,8,0,./files/dscs/R1855_00038.jpg
+1855,2015-07-23 02:14:13,"Inside of connector for cable SBVMW4-P2.",44.52758,-125.380732,2892,305,-9,0,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11259.jpg
+1855,2015-07-23 02:16:08,"Port arm plugging in cable SBVMW4-P2 into port on docking station for PD01A.",44.52758,-125.380732,2892,305,-10,0,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11370.jpg
+1855,2015-07-23 02:16:18,"DSC: mating connector",44.52758,-125.380732,2892,304,-10,0,8,0,./files/dscs/R1855_00039.jpg
+1855,2015-07-23 02:16:29,"DSC: connector mated",44.527582,-125.380732,2892,305,-10,0,8,0,./files/dscs/R1855_00040.jpg
+1855,2015-07-23 02:16:58,"SBVMW4-P2 connected to docking station for PD01A.",44.527583,-125.380733,2892,305,-10,0,8,19.54,./files/framegrabs/SDI1_2015-07-22 23_06_34_11424.jpg
+1855,2015-07-23 02:17:51,"Port arm grabbed hold of the docking station and starboard arm is letting go.",44.527578,-125.380733,2892,305,-10,0,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11496.jpg
+1855,2015-07-23 02:18:04,"DSC: Port manip gripping bumper to free up SB manip",44.527578,-125.380733,2892,305,-10,0,7,7.01,./files/dscs/R1855_00041.jpg
+1855,2015-07-23 02:19:10,"Port and starboard arm let go of docking station.",44.527587,-125.380732,2892,295,-9,1,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11555.jpg
+1855,2015-07-23 02:19:46,"DSC: reach for beacon.",44.527615,-125.380732,2892,250,-8,2,8,14.15,./files/dscs/R1855_00042.jpg
+1855,2015-07-23 02:20:15,"Starboard arm grabbed a hold of one of the rubber rings securing the beacon.",44.527617,-125.380732,2892,251,-9,1,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11619.jpg
+1855,2015-07-23 02:20:34,"Port arm released pin and removed beacon.",44.527618,-125.380732,2892,251,-10,0,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11636.jpg
+1855,2015-07-23 02:20:48,"DSC: beacon recovered",44.527622,-125.380725,2892,251,-8,0,8,0,./files/dscs/R1855_00043.jpg
+1855,2015-07-23 02:21:17,"Beacon and docking station at PD01A.",44.527562,-125.380722,2892,328,-8,0,8,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11680.jpg
+1855,2015-07-23 02:22:30,"Port arm placing pin in milk crate on porch.",44.527572,-125.380698,2890,327,-7,2,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11756.jpg
+1855,2015-07-23 02:23:14,"DSC: beacon and porch",44.527572,-125.380705,2890,326,-6,0,10,8.69,./files/dscs/R1855_00045.jpg
+1855,2015-07-23 02:23:50,"Starboard arm placing beacon in milk crate on porch.",44.527572,-125.380697,2890,327,-7,0,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11834.jpg
+1855,2015-07-23 02:26:25,"Port arm opening the rock box to place the dummy plug in it for ascent.",44.527577,-125.380703,2890,327,-8,3,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_11990.jpg
+1855,2015-07-23 02:26:48,"Starboard arm placed dummy plug in rock box.",44.527577,-125.3807,2890,327,-7,1,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_12006.jpg
+1855,2015-07-23 02:27:06,"Starboard arm securing rock box.",44.527573,-125.380705,2890,326,-8,0,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_12030.jpg
+1855,2015-07-23 02:28:48,"Port arm securing a biner to the beacon in the milk crate on ROPOS porch.",44.52757,-125.380703,2890,327,-7,0,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_12152.jpg
+1855,2015-07-23 02:34:18,"Starboard arm secured the other end of the biner to the milk crate to secure beacon in the milk crate for ascent.",44.527568,-125.38069,2890,327,-7,0,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_12461.jpg
+1855,2015-07-23 02:39:09,"Moving to the north of the mooring to avoid tangling with the mooring cable on ascent. (Mooring cable is leaning to the south east.)",44.526693,-125.381062,2885,204,-3,0,14,0,
+1855,2015-07-23 03:04:57,"Biology: Poralia rufescen",44.527398,-125.379693,2886,346,-5,1,14,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_14303.jpg
+1855,2015-07-23 03:05:40,"DSC: Biology Jellyfish",44.527398,-125.379658,2886,310,-6,0,14,0,./files/dscs/R1855_00048.jpg
+1855,2015-07-23 03:06:45,"Biology: Poralia rufescen",44.527462,-125.379773,2886,282,-6,0,14,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_14410.jpg
+1855,2015-07-23 03:11:48,"Biology: rattail",44.52763,-125.380167,2896,261,-6,0,3,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_14712.jpg
+1855,2015-07-23 03:14:04,"arrived at mooring station",44.527618,-125.38058,2898,269,-5,0,2,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_14850.jpg
+1855,2015-07-23 03:15:12,"docking station",44.527612,-125.380668,2890,269,-4,0,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_14909.jpg
+1855,2015-07-23 03:16:36,"Port forward niskin attempted to fire. Trying to knock close with arm. Success.",44.527612,-125.380668,2890,269,-6,0,10,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_14998.jpg
+1855,2015-07-23 03:24:43,"reached niskin 2 position",44.527685,-125.380578,2804,235,-7,1,0,16.61,./files/framegrabs/SDI1_2015-07-22 23_06_34_15481.jpg
+1855,2015-07-23 03:27:17,"Port aft niskin bottle attempt to fire.",44.527618,-125.380623,2798,235,-6,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_15635.jpg
+1855,2015-07-23 03:28:48,"attempting to close with port arm",44.527638,-125.38063,2798,235,-5,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_15733.jpg
+1855,2015-07-23 03:29:19,"attempting to close with starboard arm",44.527707,-125.380628,2798,235,-6,1,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_15761.jpg
+1855,2015-07-23 03:29:48,"Port aft niskin fired.",44.527693,-125.380652,2798,236,-6,1,0,13.75,./files/framegrabs/SDI1_2015-07-22 23_06_34_15785.jpg
+1855,2015-07-23 03:31:44,"deep profiler spoted",44.527667,-125.380622,2775,236,-7,1,0,11,./files/framegrabs/SDI1_2015-07-22 23_06_34_15910.jpg
+1855,2015-07-23 03:31:50,"DSC: Deep sea profiler",44.527738,-125.380613,2772,235,-6,1,0,12.45,./files/dscs/R1855_00049.jpg
+1855,2015-07-23 03:32:07,"deep profiler moving downward to docking station",44.527673,-125.380595,2775,235,-6,1,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_15930.jpg
+1855,2015-07-23 03:32:09,"DSC: Deep profiler",44.527673,-125.380595,2776,235,-6,0,0,0,./files/dscs/R1855_00050.jpg
+1855,2015-07-23 03:38:05,"starboard aft niskin triggered",44.527658,-125.380653,2698,235,-5,1,0,9.72,
+1855,2015-07-23 03:40:05,"Ascent begins",44.527647,-125.380623,2683,235,-6,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_16408.jpg
+1855,2015-07-23 03:45:48,"Starboard forward attempt to close",44.527623,-125.380613,2598,236,-5,0,0,7.01,./files/framegrabs/SDI1_2015-07-22 23_06_34_16750.jpg
+1855,2015-07-23 03:46:14,"starboard forward niskin tripped by starboard arm",44.527602,-125.380572,2598,235,-6,0,0,16.61,./files/framegrabs/SDI1_2015-07-22 23_06_34_16776.jpg
+1855,2015-07-23 03:47:07,"ascent to float to retrieve beacon begins",44.527678,-125.380578,2589,235,-7,1,0,6.15,
+1855,2015-07-23 04:13:40,"Biology: red thing (looked like a shrimp with really long whiskers)",44.527475,-125.380482,1957,234,-6,2,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_18422.jpg
+1855,2015-07-23 04:23:36,"Biology: jellyfish",44.527442,-125.380493,1725,234,-7,1,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_19019.jpg
+1855,2015-07-23 04:29:08,"Biology: something",44.527365,-125.380478,1577,234,-5,3,0,4.35,./files/framegrabs/SDI1_2015-07-22 23_06_34_19350.jpg
+1855,2015-07-23 04:31:53,"Biology: blue",44.527343,-125.380543,1512,234,-7,3,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_19518.jpg
+1855,2015-07-23 04:38:45,"DSC: Biology: Jellyfish",44.527362,-125.380405,1351,234,-6,4,0,8.69,./files/dscs/R1855_00051.jpg
+1855,2015-07-23 04:38:48,"Biology: dinnerplate jellyfish",44.527328,-125.380448,1349,233,-5,3,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_19928.jpg
+1855,2015-07-23 04:41:14,"Biology: jellyfish",44.527358,-125.380412,1288,233,-7,3,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_20076.jpg
+1855,2015-07-23 04:43:19,"Biology: fish",44.527332,-125.380423,1236,234,-6,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_20204.jpg
+1855,2015-07-23 04:44:30,"DSC: Biology: Fish",44.527323,-125.38041,1208,234,-6,1,0,15.67,./files/dscs/R1855_00052.jpg
+1855,2015-07-23 04:46:40,"Biology: red",44.527298,-125.380427,1149,233,-8,4,0,8.01,./files/framegrabs/SDI1_2015-07-22 23_06_34_20401.jpg
+1855,2015-07-23 04:50:06,"DSC: Biology: Jellyfish",44.527277,-125.38041,1061,233,-7,3,0,23.65,./files/dscs/R1855_00053.jpg
+1855,2015-07-23 05:00:52,"Biology: jellyfish",44.527238,-125.380342,796,233,-7,5,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_21254.jpg
+1855,2015-07-23 05:04:23,"Biology: jellyfish",44.527228,-125.380348,704,233,-7,6,0,14.15,./files/framegrabs/SDI1_2015-07-22 23_06_34_21467.jpg
+1855,2015-07-23 05:04:24,"DSC: Biology: Jellyfish",44.527228,-125.380348,703,233,-7,5,0,20.29,./files/dscs/R1855_00056.jpg
+1855,2015-07-23 05:05:25,"DSC: Biology: Jellyfish",44.527247,-125.380337,674,234,-8,5,0,0,./files/dscs/R1855_00057.jpg
+1855,2015-07-23 05:05:42,"Biology: red eye-shaped thing",44.527247,-125.380332,665,233,-8,5,0,4.35,./files/framegrabs/SDI1_2015-07-22 23_06_34_21543.jpg
+1855,2015-07-23 05:27:39,"DSC: Approaching float",44.527222,-125.38032,112,233,-5,5,0,0,./files/dscs/R1855_00060.jpg
+1855,2015-07-23 05:27:49,"float spotted",44.527223,-125.380322,107,232,-6,2,0,8.25,./files/framegrabs/SDI1_2015-07-22 23_06_34_22875.jpg
+1855,2015-07-23 05:27:52,"DSC: The float",44.527232,-125.380313,106,233,-3,1,0,0,./files/dscs/R1855_00061.jpg
+1855,2015-07-23 05:28:10,"photo of float",44.527245,-125.380288,103,233,-6,1,0,8.25,./files/framegrabs/SDI1_2015-07-22 23_06_34_22896.jpg
+1855,2015-07-23 05:29:08,"Photo of float",44.527212,-125.380307,103,234,-4,1,0,4.35,./files/framegrabs/SDI1_2015-07-22 23_06_34_22953.jpg
+1855,2015-07-23 05:30:28,"DSC: The beacon is located on the bottom left of float",44.527208,-125.380337,103,233,-5,1,0,0,./files/dscs/R1855_00062.jpg
+1855,2015-07-23 05:31:47,"Reaching with starboard arm to retrieve beacon.",44.527198,-125.380332,104,233,-6,0,0,16.03,./files/framegrabs/SDI1_2015-07-22 23_06_34_23112.jpg
+1855,2015-07-23 05:34:05,"Grabbing the top ring with starboard arm",44.527185,-125.380358,104,234,-3,0,0,7.01,./files/framegrabs/SDI1_2015-07-22 23_06_34_23250.jpg
+1855,2015-07-23 05:34:43,"Let go of top ring with starboard arm",44.527168,-125.380357,103,233,-7,2,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_23288.jpg
+1855,2015-07-23 05:36:05,"Grabbing top ring with starboard arm",44.527177,-125.380367,105,234,-7,2,0,24.04,./files/framegrabs/SDI1_2015-07-22 23_06_34_23371.jpg
+1855,2015-07-23 05:36:44,"Let go of top ring with starboard arm",44.527167,-125.380325,105,231,-6,1,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_23406.jpg
+1855,2015-07-23 05:37:22,"Grabbing top ring with starboard arm",44.527172,-125.380338,105,233,-7,2,0,15.18,./files/framegrabs/SDI1_2015-07-22 23_06_34_23444.jpg
+1855,2015-07-23 05:37:23,"DSC: The beacon",44.527172,-125.380338,105,232,-8,2,0,0,./files/dscs/R1855_00063.jpg
+1855,2015-07-23 05:37:34,"DSC: Please add comment [Focal Length=26] [F-Stop=5] [Exposure time=0.01] [ISO Equivalent=3200]",44.527157,-125.380388,105,234,-8,1,0,0,./files/dscs/R1855_00064.jpg
+1855,2015-07-23 05:37:58,"Port arm reaching for beacon",44.527153,-125.380367,105,234,-7,2,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_23484.jpg
+1855,2015-07-23 05:38:48,"DSC: Brought porch forward",44.527153,-125.380327,105,234,-11,0,0,0,./files/dscs/R1855_00065.jpg
+1855,2015-07-23 05:39:12,"Port arm grabbing for beacon rope",44.527172,-125.380275,105,234,-12,1,0,6.15,./files/framegrabs/SDI1_2015-07-22 23_06_34_23558.jpg
+1855,2015-07-23 05:40:29,"Pulling out beacon",44.527138,-125.380307,105,234,-11,0,0,7.01,./files/framegrabs/SDI1_2015-07-22 23_06_34_23634.jpg
+1855,2015-07-23 05:40:40,"DSC: Beacon out of float",44.527142,-125.380298,105,233,-11,0,0,0,./files/dscs/R1855_00066.jpg
+1855,2015-07-23 05:40:45,"Beacon retrieved out of hole",44.527142,-125.380298,105,234,-11,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_23651.jpg
+1855,2015-07-23 05:41:33,"Beacon successfully placed in basket on ROPOS by port arm",44.527133,-125.380333,105,233,-8,0,0,8.01,./files/framegrabs/SDI1_2015-07-22 23_06_34_23698.jpg
+1855,2015-07-23 05:41:37,"DSC: Beacon on porch",44.527118,-125.380348,105,233,-11,0,0,0,./files/dscs/R1855_00067.jpg
+1855,2015-07-23 05:42:03,"Starboard arm releases top ring of flaot",44.527122,-125.380345,105,232,-3,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_23721.jpg
+1855,2015-07-23 05:42:54,"ROPOS starboard arm to hold beacon in place in basket. Note: next time have a longer loop so that a Caribbean can be placed on the loop for retrieval.",44.527188,-125.380182,106,234,-5,0,0,0,./files/framegrabs/SDI1_2015-07-22 23_06_34_23777.jpg
+1855,2015-07-23 05:43:38,"DSC: The porch",44.527218,-125.380253,106,233,-5,0,0,16.49,./files/dscs/R1855_00068.jpg
+1855,2015-07-23 05:44:52,"Ascent to surface commenced",44.527292,-125.380202,106,249,-4,0,0,9.72,./files/framegrabs/SDI1_2015-07-22 23_06_34_23894.jpg
+1855,2015-07-23 05:46:12,"lemons spotted",44.527465,-125.379928,92,259,-5,2,0,0,
+1855,2015-07-23 05:47:15,"removal of lemons begins",44.527663,-125.379767,91,259,-5,1,0,14.8,
+1855,2015-07-23 05:54:02,"last lemon at 50",44.527643,-125.379613,49,271,-7,-2,0,0,
+1855,2015-07-23 05:55:44,"retrieval of the last two lemons at 30m",44.527563,-125.379653,25,335,-5,2,0,0,
+1855,2015-07-23 05:56:29,"all lemons removed",44.527528,-125.379635,20,335,-7,0,0,0,
+1855,2015-07-23 05:59:29,"ROV surfaced",44.527532,-125.379428,1,311,-11,3,0,0,
+1855,2015-07-23 05:59:53,"DSC: Surfacing",44.527518,-125.379433,1,279,-2,3,0,7.01,./files/dscs/R1855_00069.jpg
+1855,2015-07-23 05:59:59,"ROV out of water",44.527518,-125.379433,0,280,3,1,0,0,
+1855,2015-07-23 06:00:10,"DSC: Porch with tools",44.527518,-125.379433,0,274,-3,0,0,9.91,./files/dscs/R1855_00070.jpg
+1855,2015-07-23 06:00:29,"ROV attached to arm",44.527518,-125.379433,0,275,-1,0,0,0,
+1855,2015-07-23 06:03:04,"power down on ROV",0,0,0,0,0,0,0,0,
+1855,2015-07-23 06:04:20,"ROPOS on deck",0,0,0,0,0,0,0,0,

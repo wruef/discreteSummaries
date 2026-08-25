@@ -1,0 +1,19 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\CTD\RR1714\CTD11.hdr
+* Software Version Seasave V 7.26.6.26
+* Temperature SN = 6141
+* Conductivity SN = 1919
+* Number of Bytes Per Scan = 44
+* Number of Voltage Words = 5
+* Number of Scans Averaged by the Deck Unit = 1
+* Append System Time to Every Scan
+* System UpLoad Time = Aug 13 2017 20:01:20
+* NMEA Latitude = 45 49.83 N
+* NMEA Longitude = 129 44.81 W
+* NMEA UTC (Time) = Aug 13 2017 20:01:18
+* Store Lat/Lon Data = Append to Every Scan
+** Ship: Revell Revelle - VISIONS17-RR1714
+** Station: 500 m E of Shallow Profiler Axial Base
+** Operator: Kawka
+* System UTC = Aug 13 2017 20:01:20
+*END*

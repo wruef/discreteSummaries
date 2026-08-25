@@ -1,0 +1,64 @@
+Chlorophyll Analyses,,,,,,
+,,Units Required,ug/L,,,
+,,,,,,
+Customer and Data Recipient,Wendi Ruef,,,,,
+Email,wruef@uw.edu,,,,,
+Office,206-221-6760,,,,,
+,,,,,,
+Worktage,TBD,Budget Contact,Jenny E,,,
+PI,D. Kelley,,jenny9@uw.edu,,,
+,,,Office: 206-542-5279,,,
+Total Samples,50,,,,,
+,,,,,,
+,,,,,,
+CTD Station,CTD ID,Niskin Bottle Number,Target Depth (m),Sample Bottle Number,Volume Filtered (L),Extraction Volume (L)
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,6,180,1007,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,8,160,1008,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,11,120,1006,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,16,80,1005,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,18,60,1004,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,20,40,1003,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,22,20,1001,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-001,24,10,1002,500,10
+Oregon Offshore Shallow Profiler,AT50-41_J2-1696,Aft,197,1009,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,6,180,1012,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,8,160,1010,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,11,120,1011,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,16,80,1014,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,18,60,1017,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,20,40,1015,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,22,20,1013,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-002,24,10,1016,500,10
+Slope Base Shallow Profiler,AT50-41_J2-1699,Aft,200,1018,500,10
+Axial Base Shallow Profiler,AT50-41_J2-1702,Aft,200,1019,500,10
+Axial Base Shallow Profiler,AT50-41_J2-1704,Aft,185,1020,500,10
+Axial Base Junction Box LJ03A,AT50-41_J2-1706,Forward,2607,1021,500,10
+Slope Base Shallow Profiler,AT50-41_J2-1713,Forward,191.5,1022,500,10
+Oregon Offshore Deep Profiler,AT50-41_J2-1714,Forward,600,1023,500,10
+Oregon Shelf BEP,AT50-41_J2-1723,Forward,80,6002,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,6,180,5061,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,8,160,5062,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,11,120,5073,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,16,80,5063,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,18,60,5074,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,20,40,5075,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,22,20,5067,500,10
+Axial Base Shallow Profiler,AT50-41_CTD-007,24,10,5064,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,6,180,6003,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,8,160,5070,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,11,120,5068,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,16,80,5069,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,18,60,5071,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,20,40,5065,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,22,20,5066,500,10
+Slope Base Shallow Profiler,AT50-41_CTD-008,24,10,6001,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,6,180,5072,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,8,160,6005,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,11,120,6004,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,16,80,6006,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,18,60,6008,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,20,40,6010,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,22,20,6007,500,10
+Oregon Offshore Shallow Profiler,AT50-41_CTD-010,24,10,6010,500,10
+Oregon Offshore BEP,AT50-41_J2-1741,Forward,578,6012,500,10
+Oregon Shelf BEP,AT50-41_J2-1743,Forward,80,6011,500,10

@@ -1,0 +1,222 @@
+IRLS Dive Data CSV Export. (Version 1.1)
+
+Dive Information:
+Dive Number, Tasks, Start Date, End Date
+1866,"Axial Base - Deep Profiler Mooring: During this dive, ROPOS removed the beacon from the base of the mooring, and reconnected the AXVMW4 cable from the LV03A junction box. ROPOS pulled away and the system was powered on from shore. Communications were established with the docking station, but not with the Deep Profiler. ROPOS transited upward, following the cable and encountered the vehicle at 789 m. The decision was made to attach a carabiner to the profiler to send it down to the docking station. The hope is that through WiFi or ICL, communications can be achieved with the vehicle. ROPOS followed the wire back up and recovered the beacon from the top of the mooring.",2015-07-28 15:42:00,2015-07-28 21:56:00
+
+Site(s):
+Name,Comments
+
+Scientist(s):
+Name, Organization
+
+Observations:
+Dive Number,Date(UTC),Observation,Latitude,Longitude,Depth(m),Heading,Pitch(deg),Roll(deg),Altitude(m),Speed(knots),File
+1866,2015-07-28 15:48:08,"ROPOS descending",45.830065,-129.758447,19,250,-6,1,0,16.03,./files/framegrabs/SDI1_2015-07-28 15_37_10_00656.jpg
+1866,2015-07-28 15:50:18,"ROPOS descending",45.830102,-129.758418,36,250,-5,0,0,17.6,
+1866,2015-07-28 15:51:25,"Off deck 1543. In water at 1546. Beginning lemons on",45.830092,-129.758417,47,250,-5,0,0,17.92,./files/framegrabs/SDI1_2015-07-28 15_37_10_00846.jpg
+1866,2015-07-28 15:56:03,"Lemons deployed",45.830012,-129.758525,72,268,-5,1,0,2.75,./files/framegrabs/SDI1_2015-07-28 15_37_10_01125.jpg
+1866,2015-07-28 15:58:02,"Salp Biology",45.830023,-129.758502,87,269,-6,0,0,18.34,./files/framegrabs/SDI1_2015-07-28 15_37_10_01251.jpg
+1866,2015-07-28 15:59:53,"End of lemons",45.830003,-129.75853,97,266,-5,1,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_01357.jpg
+1866,2015-07-28 16:10:34,"Descending",45.82986,-129.758357,300,230,-5,1,0,16.72,./files/framegrabs/SDI1_2015-07-28 15_37_10_01998.jpg
+1866,2015-07-28 16:17:05,"Descending biology",45.82972,-129.758277,466,247,-5,1,0,11.33,./files/framegrabs/SDI1_2015-07-28 15_37_10_02394.jpg
+1866,2015-07-28 16:22:08,"Descending",45.829733,-129.758373,596,249,-4,1,0,16.72,./files/framegrabs/SDI1_2015-07-28 15_37_10_02696.jpg
+1866,2015-07-28 16:23:47,"Descending Biology",45.829752,-129.758322,638,249,-5,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_02795.jpg
+1866,2015-07-28 16:27:17,"Salp Biology continuing descent",45.829777,-129.758255,735,250,-5,1,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_03006.jpg
+1866,2015-07-28 16:28:10,"Biology",45.829778,-129.758223,759,249,-5,1,0,11.33,./files/framegrabs/SDI1_2015-07-28 15_37_10_03059.jpg
+1866,2015-07-28 16:37:09,"Descending",45.829783,-129.758313,1010,249,-5,1,0,4.35,./files/framegrabs/SDI1_2015-07-28 15_37_10_03593.jpg
+1866,2015-07-28 16:42:42,"Descending",45.829752,-129.758263,1171,250,-5,1,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_03926.jpg
+1866,2015-07-28 16:44:35,"Biology: Dinner plate jelly. Continuing descent",45.829742,-129.758295,1223,249,-5,0,0,17.39,./files/framegrabs/SDI1_2015-07-28 15_37_10_04043.jpg
+1866,2015-07-28 16:52:22,"Continuing descent",45.829742,-129.758405,1451,250,-4,1,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_04511.jpg
+1866,2015-07-28 16:54:00,"Biology. Descending",45.829757,-129.758412,1498,250,-5,1,0,17.92,./files/framegrabs/SDI1_2015-07-28 15_37_10_04609.jpg
+1866,2015-07-28 16:55:18,"Biology: dinner plate jelly. Descending",45.829772,-129.758458,1535,249,-5,1,0,17.6,./files/framegrabs/SDI1_2015-07-28 15_37_10_04687.jpg
+1866,2015-07-28 17:02:06,"Descending",45.829857,-129.758542,1728,249,-5,1,0,4.35,./files/framegrabs/SDI1_2015-07-28 15_37_10_05095.jpg
+1866,2015-07-28 17:22:02,"Arrived at cable",45.829862,-129.758972,2283,192,-3,1,0,4.35,./files/framegrabs/SDI1_2015-07-28 15_37_10_06288.jpg
+1866,2015-07-28 17:33:49,"arrived at DP mooring",45.829717,-129.759102,2587,192,-5,0,24,0,./files/dscs/R1866_00003.jpg
+1866,2015-07-28 17:33:55,"Descending",45.82983,-129.759037,2589,192,-5,0,21,0,./files/dscs/R1866_00003.jpg
+1866,2015-07-28 17:34:09,"Arrived at dock",45.829828,-129.759037,2595,192,-4,0,16,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07017.jpg
+1866,2015-07-28 17:35:07,"Beacon at dock site",45.829762,-129.759043,2604,192,-5,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07071.jpg
+1866,2015-07-28 17:36:06,"Stabilizing chain",45.829722,-129.759057,2605,192,-6,0,6,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07132.jpg
+1866,2015-07-28 17:36:51,"Attempting beacon removal",45.829713,-129.759058,2605,192,-7,0,6,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07177.jpg
+1866,2015-07-28 17:37:39,"Port arm attempting beacon removal",45.829697,-129.759063,2605,192,-6,0,6,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07225.jpg
+1866,2015-07-28 17:37:58,"Beacon removed",45.829697,-129.759068,2605,192,-9,1,6,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07246.jpg
+1866,2015-07-28 17:38:23,"Carabiner retained on chain below docking station",45.829715,-129.759062,2606,192,-6,0,5,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07266.jpg
+1866,2015-07-28 17:38:50,"Securing beacon",45.82972,-129.759065,2610,192,-6,1,2,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07296.jpg
+1866,2015-07-28 17:39:02,"Beacon secure",45.829713,-129.759068,2610,195,-7,0,1,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07304.jpg
+1866,2015-07-28 17:39:39,"Anchor site",45.82973,-129.759072,2610,182,-5,0,2,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07341.jpg
+1866,2015-07-28 17:39:50,"DP mooring anchor",45.829722,-129.759077,2610,183,-6,0,2,0,./files/dscs/R1866_00004.jpg
+1866,2015-07-28 17:40:05,"Anchor and dock site",45.829728,-129.75912,2609,178,-6,0,2,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07366.jpg
+1866,2015-07-28 17:41:08,"Cable. Locating flange box",45.829783,-129.759423,2609,260,-6,0,2,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07437.jpg
+1866,2015-07-28 17:42:04,"Flange box located",45.82981,-129.759643,2607,262,-5,1,4,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07493.jpg
+1866,2015-07-28 17:42:38,"Flange box",45.829813,-129.759727,2608,218,-6,0,2,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07527.jpg
+1866,2015-07-28 17:42:56,"Flange box and strain relief carabiner",45.829808,-129.759762,2609,187,-6,0,1,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07542.jpg
+1866,2015-07-28 17:43:13,"Flange box on floor",45.829795,-129.75978,2608,160,-8,1,1,0,./files/dscs/R1866_00005.jpg
+1866,2015-07-28 17:43:22,"Flange box on floor",45.829788,-129.759787,2608,138,-8,0,1,0,./files/dscs/R1866_00006.jpg
+1866,2015-07-28 17:43:42,"Flange box reached. Locating connector",45.829793,-129.759773,2609,125,-5,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07590.jpg
+1866,2015-07-28 17:44:50,"Flange box in transit to DP mooring",45.829802,-129.759728,2606,126,-11,0,4,0,./files/dscs/R1866_00007.jpg
+1866,2015-07-28 17:47:54,"En route to DP",45.829833,-129.759262,2601,131,-9,0,10,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07842.jpg
+1866,2015-07-28 17:48:37,"Returned to mooring",45.829798,-129.759132,2604,184,-10,1,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07886.jpg
+1866,2015-07-28 17:49:55,"Flange box placed at anchor base",45.829722,-129.759085,2610,185,-9,0,1,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07964.jpg
+1866,2015-07-28 17:50:35,"Waiting for silt to settle",45.829738,-129.759078,2611,188,-2,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_07995.jpg
+1866,2015-07-28 17:51:10,"Port arm secured connector",45.82972,-129.759072,2611,189,-2,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_08039.jpg
+1866,2015-07-28 17:51:13,"DSC: Please add comment [Focal Length=70] [F-Stop=2.8] [Exposure time=0.01] [ISO Equivalent=560]",45.829723,-129.759072,2611,189,-2,0,0,15.67,./files/dscs/R1866_00008.jpg
+1866,2015-07-28 17:52:45,"Holding",45.829715,-129.759058,2611,189,-2,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_08130.jpg
+1866,2015-07-28 17:55:07,"Adjusting loop",45.829723,-129.759053,2611,189,-2,0,0,20.94,./files/framegrabs/SDI1_2015-07-28 15_37_10_08272.jpg
+1866,2015-07-28 17:56:31,"Repositioning flange box",45.829712,-129.759037,2611,189,-2,0,0,11.82,./files/framegrabs/SDI1_2015-07-28 15_37_10_08360.jpg
+1866,2015-07-28 17:58:15,"placing plug into flange box",45.82972,-129.759043,2611,189,-2,0,0,0,./files/dscs/R1866_00009.jpg
+1866,2015-07-28 17:58:19,"Repositioning cable",45.829722,-129.759043,2611,189,-2,0,0,14.8,./files/framegrabs/SDI1_2015-07-28 15_37_10_08468.jpg
+1866,2015-07-28 17:58:53,"Port arm repositioning flange box",45.829717,-129.759042,2611,189,-2,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_08502.jpg
+1866,2015-07-28 17:59:19,"Holding for visibility",45.829708,-129.759047,2611,189,-2,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_08528.jpg
+1866,2015-07-28 17:59:25,"silt rising over flange box",45.829713,-129.759047,2611,190,-2,0,0,11.82,./files/dscs/R1866_00010.jpg
+1866,2015-07-28 18:01:03,"silt settling over flange box",45.829712,-129.759055,2611,198,-2,0,0,11.33,./files/dscs/R1866_00011.jpg
+1866,2015-07-28 18:02:13,"retrieving plug from flange box",45.8297,-129.759057,2611,198,-2,0,0,0,./files/dscs/R1866_00012.jpg
+1866,2015-07-28 18:02:28,"Securing connection",45.829703,-129.759053,2611,198,-2,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_08717.jpg
+1866,2015-07-28 18:04:25,"Passing connector to starboard arm",45.829713,-129.759052,2611,198,-2,0,0,0,
+1866,2015-07-28 18:05:20,"Connector secured by starboard arm",45.829712,-129.75905,2611,198,-2,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_08881.jpg
+1866,2015-07-28 18:05:55,"Rotating flange box",45.829715,-129.759052,2611,198,-3,0,0,17.92,./files/framegrabs/SDI1_2015-07-28 15_37_10_08921.jpg
+1866,2015-07-28 18:06:01,"moving flange box with port arm, plug in starboard arm",45.829715,-129.759048,2611,198,-3,0,0,11.33,./files/dscs/R1866_00013.jpg
+1866,2015-07-28 18:07:02,"Attempting to unwind cable",45.829692,-129.759048,2611,198,-3,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_08985.jpg
+1866,2015-07-28 18:07:12,"attempted untangling of cable",45.82969,-129.75905,2611,198,-3,0,0,0,./files/dscs/R1866_00014.jpg
+1866,2015-07-28 18:08:18,"Connection clear of loop",45.829682,-129.759055,2611,198,-3,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09063.jpg
+1866,2015-07-28 18:08:28,"pulling plug through loop in the cable",45.829687,-129.759052,2611,198,-3,0,0,17.92,./files/dscs/R1866_00015.jpg
+1866,2015-07-28 18:09:48,"passing plug from starboard arm to port arm",45.829702,-129.759048,2611,198,-3,0,0,17.39,./files/dscs/R1866_00016.jpg
+1866,2015-07-28 18:09:53,"Connection passed to port arm",45.829703,-129.759052,2611,198,-3,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09158.jpg
+1866,2015-07-28 18:11:24,"attempting to free cable from under the flange box",45.829708,-129.759047,2611,198,-3,0,0,0,./files/dscs/R1866_00017.jpg
+1866,2015-07-28 18:11:39,"Attempting to release cable from flange box",45.829712,-129.759048,2611,198,-3,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09259.jpg
+1866,2015-07-28 18:12:51,"Loosening organic matter from carabiner",45.829712,-129.759042,2611,198,-3,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09337.jpg
+1866,2015-07-28 18:15:33,"placing plug on the porch",45.829745,-129.75905,2611,198,-3,0,0,12.29,./files/dscs/R1866_00018.jpg
+1866,2015-07-28 18:15:34,"Connection secured on ROPOS basket",45.829745,-129.75905,2611,198,-3,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09499.jpg
+1866,2015-07-28 18:18:30,"pulling cable up to mooring",45.829728,-129.759038,2610,190,-7,1,1,0,./files/dscs/R1866_00019.jpg
+1866,2015-07-28 18:18:31,"Traveling to DP with carabiner and connection",45.82973,-129.759038,2610,190,-7,2,1,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09674.jpg
+1866,2015-07-28 18:19:45,"Located DP dock",45.8297,-129.759023,2603,190,-8,1,8,0,
+1866,2015-07-28 18:20:26,"approaching DP",45.829702,-129.759008,2604,192,-9,1,7,0,./files/dscs/R1866_00020.jpg
+1866,2015-07-28 18:20:41,"DP docking station",45.829695,-129.759015,2603,192,-7,1,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09803.jpg
+1866,2015-07-28 18:21:14,"grabbing onto DP",45.829682,-129.759017,2603,192,-6,1,8,0,./files/dscs/R1866_00021.jpg
+1866,2015-07-28 18:21:16,"starboard arm securing dock plug",45.829682,-129.759018,2603,192,-7,1,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09845.jpg
+1866,2015-07-28 18:22:07,"Port arm securing carabiner to docking station",45.829683,-129.759027,2603,192,-6,1,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09894.jpg
+1866,2015-07-28 18:22:11,"clipping onto dp with cable grip",45.829682,-129.759028,2603,192,-6,0,8,0,./files/dscs/R1866_00022.jpg
+1866,2015-07-28 18:23:06,"clipping onto dp with cable grip",45.829688,-129.759025,2603,191,-5,1,8,11.82,./files/dscs/R1866_00023.jpg
+1866,2015-07-28 18:23:10,"Carabiner secured at docking station",45.82969,-129.759025,2603,191,-6,1,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09958.jpg
+1866,2015-07-28 18:23:24,"Carabiner secure at docking station",45.82969,-129.759023,2603,192,-5,1,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09973.jpg
+1866,2015-07-28 18:23:37,"Port arm removing plug from docking station",45.829688,-129.759018,2603,192,-5,1,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_09984.jpg
+1866,2015-07-28 18:23:41,"removing dummy connector",45.829688,-129.759017,2603,192,-6,1,8,0,./files/dscs/R1866_00024.jpg
+1866,2015-07-28 18:24:05,"Port arm removed cap from docking station",45.829687,-129.759013,2603,192,-6,2,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10014.jpg
+1866,2015-07-28 18:24:27,"Cap removed. Placing cap on porch",45.829693,-129.759007,2603,192,-5,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10036.jpg
+1866,2015-07-28 18:25:27,"Securing cap",45.829687,-129.759002,2603,192,-5,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10096.jpg
+1866,2015-07-28 18:25:41,"Storing dummy connector",45.829687,-129.759002,2603,192,-5,0,8,0,./files/dscs/R1866_00025.jpg
+1866,2015-07-28 18:26:08,"Cap secure",45.829678,-129.759012,2603,192,-5,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10137.jpg
+1866,2015-07-28 18:27:14,"cable plug free from its dummy connector",45.829687,-129.759012,2603,192,-5,0,8,0,./files/dscs/R1866_00026.jpg
+1866,2015-07-28 18:27:34,"Connection check",45.829687,-129.759013,2603,192,-5,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10221.jpg
+1866,2015-07-28 18:28:03,"Docking station connection check",45.829678,-129.759022,2603,190,-5,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10252.jpg
+1866,2015-07-28 18:29:12,"Adjusting port arm grip on cable connection",45.829672,-129.759047,2603,166,-5,0,8,9.91,./files/framegrabs/SDI1_2015-07-28 15_37_10_10321.jpg
+1866,2015-07-28 18:29:23,"Adjusting grip on plug",45.829673,-129.759047,2603,167,-5,0,8,0,./files/dscs/R1866_00027.jpg
+1866,2015-07-28 18:29:50,"Grip adjusted",45.82967,-129.759042,2603,169,-5,0,8,11.82,./files/framegrabs/SDI1_2015-07-28 15_37_10_10356.jpg
+1866,2015-07-28 18:30:47,"Readjusting port arm grip on cable connector",45.829663,-129.759032,2603,168,-3,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10413.jpg
+1866,2015-07-28 18:31:57,"Attempting to plug in to docking station",45.829663,-129.759037,2603,166,-4,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10484.jpg
+1866,2015-07-28 18:33:06,"Connection attempt 1",45.829658,-129.759023,2603,166,-4,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10551.jpg
+1866,2015-07-28 18:33:42,"Attempting connection 2",45.829668,-129.759025,2603,166,-3,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10589.jpg
+1866,2015-07-28 18:33:53,"attempting to readjust angle on the grip using DP housing",45.829673,-129.759028,2603,166,-4,0,8,0,./files/dscs/R1866_00028.jpg
+1866,2015-07-28 18:34:45,"Adjusting grip on cable connection",45.829652,-129.759047,2603,166,-4,0,8,13.75,./files/framegrabs/SDI1_2015-07-28 15_37_10_10654.jpg
+1866,2015-07-28 18:35:52,"Grip adjusted",45.829667,-129.75905,2603,166,-4,0,8,11.82,./files/framegrabs/SDI1_2015-07-28 15_37_10_10720.jpg
+1866,2015-07-28 18:36:45,"sizing up angle for connection",45.829683,-129.759035,2603,166,-3,0,8,0,./files/dscs/R1866_00029.jpg
+1866,2015-07-28 18:36:47,"Attempting connection 3",45.829687,-129.759033,2603,166,-3,0,8,13.75,./files/framegrabs/SDI1_2015-07-28 15_37_10_10774.jpg
+1866,2015-07-28 18:37:02,"fitting plug connection",45.829688,-129.759012,2603,166,-3,0,7,0,./files/dscs/R1866_00030.jpg
+1866,2015-07-28 18:37:16,"Connection made. Profiler plugged in",45.829692,-129.759018,2603,166,-3,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10801.jpg
+1866,2015-07-28 18:37:41,"Docking station plugged in",45.829678,-129.759032,2603,166,-3,0,8,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10830.jpg
+1866,2015-07-28 18:38:29,"Flange box and DP mooring post-connection",45.829697,-129.759023,2604,166,-6,0,7,0,./files/dscs/R1866_00031.jpg
+1866,2015-07-28 18:39:42,"flange box and cable below DP",45.829702,-129.759092,2609,166,-7,0,2,0,./files/dscs/R1866_00032.jpg
+1866,2015-07-28 18:40:07,"Holding for system check",45.829705,-129.759112,2609,173,-7,0,3,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_10972.jpg
+1866,2015-07-28 18:42:26,"observing DP post-connection",45.82968,-129.759038,2602,166,-6,0,9,0,./files/dscs/R1866_00033.jpg
+1866,2015-07-28 18:43:38,"Comms to dock OK",45.8297,-129.759038,2601,171,-6,0,10,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_11187.jpg
+1866,2015-07-28 18:47:17,"Beginning ascent",45.829673,-129.759032,2591,180,-7,0,19,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_11399.jpg
+1866,2015-07-28 18:51:49,"Cable is about 5 m away",45.829643,-129.759038,2508,179,-5,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_11676.jpg
+1866,2015-07-28 18:52:36,"Pausing at 2500 to collect niskin sample",45.829713,-129.759038,2493,179,-6,0,0,13.75,./files/framegrabs/SDI1_2015-07-28 15_37_10_11723.jpg
+1866,2015-07-28 18:53:12,"Port forward niskin, Triggered approx. 3 m from cable",45.829643,-129.759002,2491,179,-6,0,0,9.72,./files/framegrabs/SDI1_2015-07-28 15_37_10_11758.jpg
+1866,2015-07-28 18:54:24,"Port aft, Triggered approx. 3 m from cable. See previous sample entry for exact depth and position. Both niskins on the port side were triggered within seconds of each other.",45.829697,-129.759012,2470,179,-7,0,0,13.75,
+1866,2015-07-28 18:55:51,"Resumed ascent",45.829722,-129.758995,2437,179,-7,1,0,9.91,./files/framegrabs/SDI1_2015-07-28 15_37_10_11918.jpg
+1866,2015-07-28 18:58:33,"Paused for triggering",45.829668,-129.759038,2399,180,-6,0,0,16.72,
+1866,2015-07-28 18:58:45,"starboard forward niskin triggered ~6 m from cable",45.829677,-129.759038,2399,179,-6,1,0,17.92,./files/framegrabs/SDI1_2015-07-28 15_37_10_12092.jpg
+1866,2015-07-28 18:59:31,"starboard aft niskin triggered ~6 m from cable. See previous sample for exact position. Both were triggered within seconds of eachother",45.829687,-129.759013,2392,180,-7,0,0,7.01,
+1866,2015-07-28 19:00:49,"Resumed ascent",45.829663,-129.758997,2359,179,-7,1,0,13.75,
+1866,2015-07-28 19:02:34,"Currently 10 meters from cable",45.829733,-129.758972,2313,179,-6,1,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_12321.jpg
+1866,2015-07-28 19:03:04,"No comms yet with profiler",45.829707,-129.758982,2300,179,-7,0,0,4.35,./files/framegrabs/SDI1_2015-07-28 15_37_10_12351.jpg
+1866,2015-07-28 19:06:45,"8 meters from cable",45.829717,-129.759,2203,179,-7,0,0,16.03,./files/framegrabs/SDI1_2015-07-28 15_37_10_12572.jpg
+1866,2015-07-28 19:23:35,"No communications with profiler",45.829687,-129.75903,1747,179,-7,0,0,18.44,./files/framegrabs/SDI1_2015-07-28 15_37_10_13576.jpg
+1866,2015-07-28 19:23:59,"7 meters from cable. Still no comms with vehicle",45.829693,-129.759017,1737,179,-7,0,0,6.15,./files/framegrabs/SDI1_2015-07-28 15_37_10_13606.jpg
+1866,2015-07-28 19:37:55,"No visual contact with profiler yet",45.829642,-129.759013,1367,179,-7,0,0,17.6,./files/framegrabs/SDI1_2015-07-28 15_37_10_14437.jpg
+1866,2015-07-28 19:38:59,"7 meters from cable",45.829628,-129.759025,1338,179,-7,0,0,4.35,./files/framegrabs/SDI1_2015-07-28 15_37_10_14506.jpg
+1866,2015-07-28 19:53:43,"7 meters from cable",45.829637,-129.759035,929,179,-7,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_15392.jpg
+1866,2015-07-28 19:58:38,"Profiler found",45.829622,-129.759035,793,180,-7,1,0,8.69,./files/framegrabs/SDI1_2015-07-28 15_37_10_15687.jpg
+1866,2015-07-28 19:59:59,"Approaching profiler. Does not appear to be moving",45.829625,-129.759038,791,179,-5,0,0,5.5,./files/framegrabs/SDI1_2015-07-28 15_37_10_15766.jpg
+1866,2015-07-28 20:00:17,"Close up of profiler",45.829612,-129.759042,789,179,-7,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_15786.jpg
+1866,2015-07-28 20:00:37,"DSC: Close up of profiler",45.82961,-129.759038,789,179,-7,0,0,0,./files/dscs/R1866_00034.jpg
+1866,2015-07-28 20:00:53,"DSC: Close up of profiler",45.829618,-129.759043,789,180,-5,1,0,2.75,./files/dscs/R1866_00035.jpg
+1866,2015-07-28 20:01:42,"DSC: Close up of profiler",45.829627,-129.759033,789,179,-5,1,0,4.35,./files/dscs/R1866_00036.jpg
+1866,2015-07-28 20:01:47,"Profiler may be descending slowly, but not powered",45.829632,-129.759033,789,180,-7,0,0,2.75,./files/framegrabs/SDI1_2015-07-28 15_37_10_15874.jpg
+1866,2015-07-28 20:02:19,"DSC: Profiler",45.829633,-129.759037,789,179,-6,0,0,10.47,./files/dscs/R1866_00037.jpg
+1866,2015-07-28 20:02:30,"Close up. Profiler is 5 meters away",45.829617,-129.759042,789,179,-7,0,0,14.8,./files/framegrabs/SDI1_2015-07-28 15_37_10_15917.jpg
+1866,2015-07-28 20:02:32,"DSC: Profiler",45.829617,-129.759042,789,179,-6,1,0,9.91,./files/dscs/R1866_00038.jpg
+1866,2015-07-28 20:02:54,"DSC: Profiler",45.829607,-129.759082,789,180,-6,1,0,0,./files/dscs/R1866_00039.jpg
+1866,2015-07-28 20:03:22,"Close up of profiler",45.829613,-129.759043,789,180,-5,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_15971.jpg
+1866,2015-07-28 20:03:50,"DSC: Profiler",45.829613,-129.759043,789,179,-6,0,0,7.01,./files/dscs/R1866_00040.jpg
+1866,2015-07-28 20:05:17,"DSC: Profiler",45.829622,-129.759043,789,179,-6,1,0,4.35,./files/dscs/R1866_00041.jpg
+1866,2015-07-28 20:05:57,"DSC: Profiler",45.829622,-129.759038,789,180,-6,1,0,7.01,./files/dscs/R1866_00042.jpg
+1866,2015-07-28 20:06:34,"DSC: Profiler",45.829622,-129.759043,789,179,-6,1,0,2.75,./files/dscs/R1866_00043.jpg
+1866,2015-07-28 20:10:29,"DSC: Profiler",45.829623,-129.759043,789,180,-6,0,0,0,./files/dscs/R1866_00044.jpg
+1866,2015-07-28 20:12:34,"DSC: Profiler",45.829623,-129.759028,789,180,-7,0,0,16.72,./files/dscs/R1866_00045.jpg
+1866,2015-07-28 20:24:12,"DSC: Profiler",45.829618,-129.759032,789,179,-6,0,0,13.75,./files/dscs/R1866_00046.jpg
+1866,2015-07-28 20:24:51,"Skip with the plan: Put a caribiner on the profiler, and send the profiler to the bottom. Will be left for the next year.",45.82963,-129.759033,789,179,-6,1,0,12.29,./files/framegrabs/SDI1_2015-07-28 15_37_10_17258.jpg
+1866,2015-07-28 20:26:24,"DSC: ROPOS porch",45.829628,-129.759042,789,179,-6,1,0,0,./files/dscs/R1866_00047.jpg
+1866,2015-07-28 20:27:58,"DSC: Approaching profiler",45.829608,-129.759028,788,179,-7,1,0,13.75,./files/dscs/R1866_00048.jpg
+1866,2015-07-28 20:28:29,"Profiler grabbed with starboard arm",45.829592,-129.759028,788,179,-7,1,0,8.25,./files/framegrabs/SDI1_2015-07-28 15_37_10_17476.jpg
+1866,2015-07-28 20:28:48,"DSC: Approaching profiler",45.829593,-129.759027,790,179,-8,0,0,13.04,./files/dscs/R1866_00049.jpg
+1866,2015-07-28 20:30:23,"Caribiner with bungee removed from porch",45.829593,-129.759023,791,179,-7,1,0,20.66,./files/framegrabs/SDI1_2015-07-28 15_37_10_17592.jpg
+1866,2015-07-28 20:32:02,"Caribiner secured to float",45.829643,-129.759013,791,179,-8,1,0,21.99,./files/framegrabs/SDI1_2015-07-28 15_37_10_17689.jpg
+1866,2015-07-28 20:32:03,"DSC: Caribiner secured to float",45.829643,-129.759013,791,179,-8,2,0,7.01,./files/dscs/R1866_00050.jpg
+1866,2015-07-28 20:33:38,"Other end of caribiner attached to profiler",45.82966,-129.759007,791,180,-8,0,0,15.67,./files/framegrabs/SDI1_2015-07-28 15_37_10_17784.jpg
+1866,2015-07-28 20:33:39,"DSC: Other end of caribiner attached to profiler",45.82966,-129.759007,791,180,-9,0,0,19.82,./files/dscs/R1866_00051.jpg
+1866,2015-07-28 20:40:53,"Going to remove line with caribiners on porch, attach to profiler",45.829708,-129.759012,791,179,-7,2,0,10.47,
+1866,2015-07-28 20:41:44,"Broke zip tie holding line to porch. Bunched portion of line still in tact",45.829722,-129.759,791,179,-8,0,0,19.14,./files/framegrabs/SDI1_2015-07-28 15_37_10_18273.jpg
+1866,2015-07-28 20:42:42,"Third caribiner attached to profiler",45.829697,-129.759012,791,179,-7,1,0,14.02,./files/framegrabs/SDI1_2015-07-28 15_37_10_18331.jpg
+1866,2015-07-28 20:42:45,"DSC: caribiner on profiler",45.829697,-129.759012,791,179,-9,1,0,0,./files/dscs/R1866_00053.jpg
+1866,2015-07-28 20:44:39,"Handle ripped off profiler",45.829708,-129.759007,791,180,-9,1,0,11,./files/framegrabs/SDI1_2015-07-28 15_37_10_18440.jpg
+1866,2015-07-28 20:45:12,"Screen grab of handle breaking off",45.829747,-129.75899,791,179,-8,1,0,15.18,./files/framegrabs/SDI1_2015-07-28 15_37_10_18440.jpg
+1866,2015-07-28 20:46:24,"Profiler handle placed into milk crate",45.82974,-129.759018,791,179,-7,1,0,20.01,./files/framegrabs/SDI1_2015-07-28 15_37_10_18553.jpg
+1866,2015-07-28 20:50:02,"Removing plug from porch. Going to loop a bungee through it, then caribiner it to the remaining handle on the profiler",45.829703,-129.759037,791,179,-7,2,0,8.69,./files/framegrabs/SDI1_2015-07-28 15_37_10_18771.jpg
+1866,2015-07-28 20:52:03,"Longer line with binners placed in milk crate on porch",45.829713,-129.759033,791,179,-7,2,0,16.03,./files/framegrabs/SDI1_2015-07-28 15_37_10_18890.jpg
+1866,2015-07-28 20:54:32,"DSC: Caribiner attached to dummy plug",45.829627,-129.759027,791,179,-8,1,0,18.44,./files/dscs/R1866_00054.jpg
+1866,2015-07-28 20:54:34,"Caribiner attached to dummy plug",45.829627,-129.759027,791,179,-6,1,0,12.29,./files/framegrabs/SDI1_2015-07-28 15_37_10_19041.jpg
+1866,2015-07-28 20:58:09,"DSC: Approaching profiler",45.829573,-129.759075,791,150,-6,0,0,6.15,./files/dscs/R1866_00055.jpg
+1866,2015-07-28 20:59:03,"Starboard manipulator grabs remaining handle on profiler",45.829557,-129.759063,791,151,-6,1,0,13.75,./files/framegrabs/SDI1_2015-07-28 15_37_10_19310.jpg
+1866,2015-07-28 20:59:15,"DSC: Approaching profiler",45.829562,-129.759057,791,150,-6,1,0,0,./files/dscs/R1866_00056.jpg
+1866,2015-07-28 20:59:33,"Rotated profiler",45.829563,-129.75906,791,151,-6,2,0,13.75,./files/framegrabs/SDI1_2015-07-28 15_37_10_19336.jpg
+1866,2015-07-28 21:00:17,"Preparing to hook onto the profiler",45.829578,-129.75907,791,151,-6,0,0,9.91,./files/framegrabs/SDI1_2015-07-28 15_37_10_19384.jpg
+1866,2015-07-28 21:00:40,"DSC: attaching caribiner to profiler",45.829582,-129.759075,791,151,-7,1,0,16.03,./files/dscs/R1866_00057.jpg
+1866,2015-07-28 21:00:53,"Caribiner secured to profiler",45.829587,-129.759072,791,151,-7,1,0,6.15,./files/framegrabs/SDI1_2015-07-28 15_37_10_19415.jpg
+1866,2015-07-28 21:01:00,"DSC: Caribiner attached to the profiler",45.829602,-129.759065,791,151,-6,1,0,0,./files/dscs/R1866_00058.jpg
+1866,2015-07-28 21:01:18,"Caribiner attached to profiler",45.829593,-129.759077,791,151,-7,0,0,6.15,./files/framegrabs/SDI1_2015-07-28 15_37_10_19445.jpg
+1866,2015-07-28 21:01:44,"Letting go of profiler",45.829615,-129.759065,791,151,-7,0,0,8.01,./files/framegrabs/SDI1_2015-07-28 15_37_10_19473.jpg
+1866,2015-07-28 21:02:41,"Start of descent timing",45.82962,-129.759047,803,177,-6,1,0,4.35,./files/framegrabs/SDI1_2015-07-28 15_37_10_19528.jpg
+1866,2015-07-28 21:03:16,"End of timing period",45.829655,-129.759045,812,177,-6,0,0,17.92,./files/framegrabs/SDI1_2015-07-28 15_37_10_19563.jpg
+1866,2015-07-28 21:05:23,"Profiler descending at a rate of 15.5 m / min",45.82958,-129.759047,767,180,-7,1,0,7.01,
+1866,2015-07-28 21:07:07,"Returning to the float to recover the beacon",45.829613,-129.759065,731,179,-7,0,0,7.01,./files/framegrabs/SDI1_2015-07-28 15_37_10_19794.jpg
+1866,2015-07-28 21:30:53,"At upper stop",45.829608,-129.759077,116,181,-6,0,0,0,./files/framegrabs/SDI1_2015-07-28 15_37_10_21220.jpg
+1866,2015-07-28 21:31:26,"Float visible",45.829687,-129.75908,100,179,-8,0,0,11.82,./files/framegrabs/SDI1_2015-07-28 15_37_10_21272.jpg
+1866,2015-07-28 21:31:56,"Float is 13 m away",45.829682,-129.759053,95,180,-5,0,0,7.01,./files/framegrabs/SDI1_2015-07-28 15_37_10_21283.jpg
+1866,2015-07-28 21:32:48,"DSC: Approaching the float",45.829677,-129.759058,96,179,-6,0,0,0,./files/dscs/R1866_00059.jpg
+1866,2015-07-28 21:32:57,"Approaching float",45.829673,-129.759058,96,180,-7,0,0,16.61,./files/framegrabs/SDI1_2015-07-28 15_37_10_21346.jpg
+1866,2015-07-28 21:33:30,"DSC: Approaching the float",45.829627,-129.759068,96,179,-7,0,0,12.45,./files/dscs/R1866_00060.jpg
+1866,2015-07-28 21:33:59,"DSC: Approaching the float",45.829607,-129.759065,97,179,-7,1,0,9.91,./files/dscs/R1866_00061.jpg
+1866,2015-07-28 21:35:31,"DSC: Approaching float",45.829617,-129.759057,96,179,-7,0,0,8.01,./files/dscs/R1866_00062.jpg
+1866,2015-07-28 21:35:54,"Grabbed float with starboard manipulator",45.829588,-129.759063,97,180,-7,0,0,8.69,./files/framegrabs/SDI1_2015-07-28 15_37_10_21523.jpg
+1866,2015-07-28 21:35:57,"DSC: Grabbed float with starboard manipulator",45.829588,-129.759063,97,180,-7,0,0,9.72,./files/dscs/R1866_00063.jpg
+1866,2015-07-28 21:36:40,"DSC: Removing beacon from float",45.829618,-129.759047,97,180,-11,1,0,8.01,./files/dscs/R1866_00064.jpg
+1866,2015-07-28 21:36:49,"DSC: Beacon removed from porch",45.829627,-129.75904,97,180,-12,1,0,8.01,./files/dscs/R1866_00065.jpg
+1866,2015-07-28 21:36:50,"Beacon removed from float",45.829627,-129.75904,97,180,-11,0,0,4.35,./files/framegrabs/SDI1_2015-07-28 15_37_10_21577.jpg
+1866,2015-07-28 21:37:46,"Beacon placed in milk crate",45.829663,-129.75901,97,180,-14,1,0,15.18,./files/framegrabs/SDI1_2015-07-28 15_37_10_21644.jpg
+1866,2015-07-28 21:37:51,"DSC: Transponder in milk crate",45.829665,-129.759008,97,180,-12,0,0,6.15,./files/dscs/R1866_00066.jpg
+1866,2015-07-28 21:38:15,"Released from float",45.829678,-129.759,97,180,-5,1,0,16.72,./files/framegrabs/SDI1_2015-07-28 15_37_10_21664.jpg
+1866,2015-07-28 21:42:34,"First lemon off",45.830168,-129.758972,95,267,0,1,0,0,
+1866,2015-07-28 21:50:21,"Last lemon off",45.830217,-129.758888,21,267,-5,3,0,20.01,./files/framegrabs/SDI1_2015-07-28 15_37_10_22390.jpg
+1866,2015-07-28 21:53:09,"Surface",45.830177,-129.758782,0,295,2,2,0,18.44,./files/framegrabs/SDI1_2015-07-28 15_37_10_22559.jpg
+1866,2015-07-28 21:56:36,"On deck",0,0,0,0,0,0,0,0,

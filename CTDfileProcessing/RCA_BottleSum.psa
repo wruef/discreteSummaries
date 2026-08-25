@@ -2,17 +2,15 @@
 <Bottle_Summary >
   <Version value="7.26.7.129" />
   <ServerName value="Bottle Summary" />
-  <InstrumentPath value="Z:\githubRepos\discreteSummaries\AT50-29\CTD Data\AT50-29_CTD-001.XMLCON" />
+  <InstrumentPath value="Z:\githubRepos\discreteSummaries\AT50-41\CTD Data\AT50-41_CTD-001.XMLCON" />
   <InstrumentMatch value="1" />
-  <InputDir value="Z:\githubRepos\discreteSummaries\AT50-29\CTD Data" />
-  <InputFileArray size="3" GrowBy="-1" >
-    <ArrayItem index="0" value="AT50-29_CTD-001.ros" />
-    <ArrayItem index="1" value="AT50-29_CTD-002.ros" />
-    <ArrayItem index="2" value="AT50-29_CTD-006.ros" />
+  <InputDir value="Z:\githubRepos\discreteSummaries\AT50-41\CTD Data" />
+  <InputFileArray size="1" GrowBy="-1" >
+    <ArrayItem index="0" value="AT50-41_CTD-001.ros" />
   </InputFileArray>
-  <OutputDir value="Z:\githubRepos\discreteSummaries\AT50-29\CTD Data" />
+  <OutputDir value="Z:\githubRepos\discreteSummaries\AT50-41\CTD Data" />
   <NameAppend value="" />
-  <OutputFile value="" />
+  <OutputFile value="AT50-41_CTD-001" />
   <LastProcessed value="0" />
   <OutputMinMaxValues value="0" />
   <AverageCalcArray Size="18" >
