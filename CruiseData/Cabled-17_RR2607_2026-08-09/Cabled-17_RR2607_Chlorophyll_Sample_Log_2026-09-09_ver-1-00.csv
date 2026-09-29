@@ -1,0 +1,64 @@
+Chlorophyll Analyses
+,,Units Required,ug/L
+
+Customer and Data Recipient,Wendi Ruef
+Email,wruef@uw.edu
+Office,206-221-6760
+
+Worktage,GR060787,Budget Contact,Jenny E
+PI,D. Kelley,,jenny9@uw.edu
+,,,Office: 206-542-5279
+Total Samples,50
+
+
+CTD Station,CTD ID,Niskin Bottle Number,Target Depth (m),Sample Bottle Number,Volume Filtered (L),Extraction Volume (L)
+Oregon Shelf BEP,RR2607_J2-1775,Aft,80,7002,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,6,180,7003,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,10,140,7009,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,12,120,7008,50,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,16,80,7016,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,18,60,7005,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,20,40,7012,500,7
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,22,20,7015,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-001,24,10,7004,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,1,590,7006,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,7,400,7018,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,14,200,7010,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,16,150,7017,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,18,100,7011,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,20,50,7007,500,7.6
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,22,20,7013,500,10
+Oregon Offshore Shallow Profiler,RR2607_CTD-002,24,10,7014,500,10
+Oregon Offshore BEP,RR2607_J2-1778,Aft,600,7001,500,7
+Slope Base Junction Box LJ01A,RR2607_J2-1781,Forward,2900,7025,320,10
+Slope Base Shallow Profiler,RR2607_CTD-003,2,220,7021,500,10
+Slope Base Shallow Profiler,RR2607_CTD-003,6,180,7022,500,10
+Slope Base Shallow Profiler,RR2607_CTD-003,10,140,7027,500,10
+Slope Base Shallow Profiler,RR2607_CTD-003,16,80,7036,250,10
+Slope Base Shallow Profiler,RR2607_CTD-003,18,60,7023,500,10
+Slope Base Shallow Profiler,RR2607_CTD-003,20,40,7026,500,10
+Slope Base Shallow Profiler,RR2607_CTD-003,22,20,7020,500,10
+Slope Base Shallow Profiler,RR2607_CTD-003,24,10,7024,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,2,2895,7028,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,5,2500,7031,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,8,2000,7029,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,13,500,7030,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,17,100,7034,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,19,50,7033,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,22,30,7032,500,10
+Slope Base Shallow Profiler,RR2607_CTD-004,23,10,7035,500,10
+Axial Base Shallow Profiler,RR2607_CTD-005,8,2000,7041,500,10
+Axial Base Shallow Profiler,RR2607_CTD-005,12,1500,7038,500,10
+Axial Base Shallow Profiler,RR2607_CTD-005,16,1000,7042,500,10
+Axial Base Shallow Profiler,RR2607_CTD-005,18,500,7039,500,10
+Axial Base Shallow Profiler,RR2607_CTD-005,20,500,7040,500,10
+Axial Base Shallow Profiler,RR2607_CTD-005,22,300,7043,500,10
+Axial Base Shallow Profiler,RR2607_CTD-005,24,200,7037,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,2,220,7044,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,6,180,7048,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,10,140,7047,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,16,80,7051,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,18,60,7045,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,20,40,7046,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,22,20,7049,500,10
+Axial Base Shallow Profiler,RR2607_CTD-006,24,10,7050,500,10
